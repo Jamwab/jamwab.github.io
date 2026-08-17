@@ -1,0 +1,139 @@
+name: Actualisation nocturne des series et des figures
+
+on:
+  schedule:
+    - cron: "17 3 * * *"     # tous les jours a 03h17 UTC
+  workflow_dispatch:          # bouton « Run workflow » dans l'onglet Actions
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dependances Python
+        run: pip install --quiet openpyxl
+
+      # ------------------------------------------------------------------
+      # 1. Les series : prix des matieres premieres et agregats annuels.
+      # ------------------------------------------------------------------
+      - name: Actualiser les series
+        id: run
+        continue-on-error: true
+        run: python tools/refresh_data.py
+
+      # ------------------------------------------------------------------
+      # 2. Les planches : R et ggplot2 tracent les figures a partir des
+      #    series qui viennent d'etre ecrites. Chaque etape peut echouer
+      #    sans casser la publication : la page garde alors ses figures
+      #    de la veille.
+      # ------------------------------------------------------------------
+      - name: Bibliotheques systeme pour les polices
+        continue-on-error: true
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y --no-install-recommends \
+            libfontconfig1-dev libfreetype6-dev libpng-dev \
+            fonts-dejavu-core fonts-liberation
+
+      - uses: r-lib/actions/setup-r@v2
+        continue-on-error: true
+        with:
+          r-version: "release"
+          use-public-rspm: true
+
+      - name: Mettre en cache la bibliotheque R
+        continue-on-error: true
+        uses: actions/cache@v4
+        with:
+          path: ${{ env.R_LIBS_USER }}
+          key: r-ggplot2-${{ runner.os }}-v1
+
+      - name: Installer ggplot2 et svglite
+        id: rpkg
+        continue-on-error: true
+        run: |
+          Rscript -e 'p <- c("ggplot2","svglite","jsonlite","scales");
+                      m <- p[!p %in% rownames(installed.packages())];
+                      if (length(m)) install.packages(m);
+                      invisible(lapply(p, library, character.only = TRUE));
+                      cat("ggplot2", as.character(packageVersion("ggplot2")), "\n")'
+
+      - name: Preparer les donnees des figures
+        id: ggprep
+        continue-on-error: true
+        run: python tools/gg_prepare.py
+
+      - name: Preparer les planches de faits stylises
+        id: sfprep
+        continue-on-error: true
+        run: python tools/sf_prepare.py
+
+      - name: Publier les tableaux de faits stylises
+        id: sftab
+        continue-on-error: true
+        run: python tools/sf_tables.py
+
+      - name: Publier les tableaux thematiques de la RD Congo
+        id: rdctab
+        continue-on-error: true
+        run: python tools/rdc_themes.py
+
+      - name: Tracer les figures avec ggplot2
+        id: ggplot
+        if: steps.rpkg.outcome == 'success' && (steps.ggprep.outcome == 'success' || steps.sfprep.outcome == 'success')
+        continue-on-error: true
+        run: Rscript tools/figures.R
+
+      # Roue de secours : si R fait defaut, le traceur en Python pur ecrit
+      # les memes fichiers dans build/gg/svg, et la page garde ses figures.
+      - name: Tracer les figures sans R
+        id: sfsvg
+        if: steps.ggplot.outcome != 'success' && (steps.ggprep.outcome == 'success' || steps.sfprep.outcome == 'success')
+        continue-on-error: true
+        run: python tools/sf_svg.py
+
+      - name: Publier les figures dans la page
+        id: gg
+        if: steps.ggplot.outcome == 'success' || steps.sfsvg.outcome == 'success'
+        continue-on-error: true
+        run: python tools/gg_inject.py
+
+      # ------------------------------------------------------------------
+      # 3. Publication. On ne pousse que si au moins une des deux chaines
+      #    a abouti, et jamais les fichiers de travail.
+      # ------------------------------------------------------------------
+      - name: Publier la mise a jour
+        if: steps.run.outcome == 'success' || steps.gg.outcome == 'success'
+             || steps.sftab.outcome == 'success' || steps.rdctab.outcome == 'success'
+        run: |
+          rm -f index.html.bak
+          rm -rf build
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "aucun changement"; exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Actualisation automatique des series et des figures"
+          git push
+
+      - name: Signaler l'echec sans casser le site
+        if: steps.run.outcome != 'success'
+        run: |
+          echo "::warning::L'actualisation des series a echoue ; le site reste en l'etat."
+          echo "Verifiez l'adresse du classeur mensuel de la Banque mondiale"
+          echo "dans tools/refresh_data.py (liste CANDIDATS)."
+
+      - name: Signaler l'absence de figures
+        if: steps.gg.outcome != 'success'
+        run: |
+          echo "::warning::Les planches n'ont pas ete regenerees ;"
+          echo "la page conserve les figures de la veille."
