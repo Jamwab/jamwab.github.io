@@ -1,74 +1,108 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 238.11 130.39">
-<g font-family="Iowan Old Style, Palatino Linotype, Palatino, Georgia, Cambria, serif">
-<text x="4" y="13.48" font-size="12.16" fill="#002147" font-weight="bold">Inflation des prix à la consommation</text>
-<text x="4" y="27.07" font-size="8.93" fill="#6F6B62">Taux annuel, échelle logarithmique, 1990-2026</text>
-<text x="4" y="114.4" font-size="7.79" fill="#6F6B62">Source : IMF, World Bank, BCC</text>
-<text x="230.11" y="126.39" font-size="7.17" fill="#6F6B62" text-anchor="end">© 2026 James Wabenga Yango</text>
-<line x1="64.97" y1="40.46" x2="64.97" y2="70.15" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="64.97" y="79.52" font-size="8.17" fill="#22201C" text-anchor="middle">1990</text>
-<line x1="86.82" y1="40.46" x2="86.82" y2="70.15" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="86.82" y="79.52" font-size="8.17" fill="#22201C" text-anchor="middle">1995</text>
-<line x1="108.66" y1="40.46" x2="108.66" y2="70.15" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="108.66" y="79.52" font-size="8.17" fill="#22201C" text-anchor="middle">2000</text>
-<line x1="130.5" y1="40.46" x2="130.5" y2="70.15" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="130.5" y="79.52" font-size="8.17" fill="#22201C" text-anchor="middle">2005</text>
-<line x1="152.35" y1="40.46" x2="152.35" y2="70.15" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="152.35" y="79.52" font-size="8.17" fill="#22201C" text-anchor="middle">2010</text>
-<line x1="174.19" y1="40.46" x2="174.19" y2="70.15" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="174.19" y="79.52" font-size="8.17" fill="#22201C" text-anchor="middle">2015</text>
-<line x1="196.03" y1="40.46" x2="196.03" y2="70.15" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="196.03" y="79.52" font-size="8.17" fill="#22201C" text-anchor="middle">2020</text>
-<line x1="217.88" y1="40.46" x2="217.88" y2="70.15" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="217.88" y="79.52" font-size="8.17" fill="#22201C" text-anchor="middle">2025</text>
-<line x1="57.11" y1="67.87" x2="230.11" y2="67.87" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="54.11" y="70.65" font-size="8.17" fill="#22201C" text-anchor="end">1</text>
-<line x1="57.11" y1="61.92" x2="230.11" y2="61.92" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="54.11" y="64.7" font-size="8.17" fill="#22201C" text-anchor="end">10</text>
-<line x1="57.11" y1="55.97" x2="230.11" y2="55.97" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="54.11" y="58.75" font-size="8.17" fill="#22201C" text-anchor="end">100</text>
-<line x1="57.11" y1="50.02" x2="230.11" y2="50.02" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="54.11" y="52.79" font-size="8.17" fill="#22201C" text-anchor="end">1 000</text>
-<line x1="57.11" y1="44.06" x2="230.11" y2="44.06" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="54.11" y="46.84" font-size="8.17" fill="#22201C" text-anchor="end">10 000</text>
-<text x="143.61" y="95.14" font-size="8.36" fill="#6F6B62" text-anchor="middle">Année</text>
-<text x="10.52" y="55.31" font-size="8.36" fill="#6F6B62" text-anchor="middle" transform="rotate(-90 10.52 55.31)">Pour cent, échelle log</text>
-<polyline points="64.97,56.5 69.34,48.02 73.71,46.34 78.08,48.24 82.45,41.81 86.82,51.6 91.19,51.26 95.55,54.18 99.92,59.17 104.29,53.26 108.66,51.57 113.03,52.67 117.4,59.52 121.77,61.28 126.14,64.29 130.5,59.94 134.87,61.28 139.24,60.6 143.61,60.4 147.98,57.98 152.35,59.72 156.72,60.89 161.08,68.15 165.45,68.15 169.82,67.4 174.19,68.8 178.56,64.87 182.93,58.63 187.3,59.15 191.67,63.87 196.03,61.58 200.4,62.19 204.77,62.11 209.14,60.14 213.51,60.43 217.88,62.5 222.25,63.04" fill="none" stroke="#8C2F27" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="64.97" cy="56.5" r="1.15" fill="#8C2F27"/>
-<circle cx="69.34" cy="48.02" r="1.15" fill="#8C2F27"/>
-<circle cx="73.71" cy="46.34" r="1.15" fill="#8C2F27"/>
-<circle cx="78.08" cy="48.24" r="1.15" fill="#8C2F27"/>
-<circle cx="82.45" cy="41.81" r="1.15" fill="#8C2F27"/>
-<circle cx="86.82" cy="51.6" r="1.15" fill="#8C2F27"/>
-<circle cx="91.19" cy="51.26" r="1.15" fill="#8C2F27"/>
-<circle cx="95.55" cy="54.18" r="1.15" fill="#8C2F27"/>
-<circle cx="99.92" cy="59.17" r="1.15" fill="#8C2F27"/>
-<circle cx="104.29" cy="53.26" r="1.15" fill="#8C2F27"/>
-<circle cx="108.66" cy="51.57" r="1.15" fill="#8C2F27"/>
-<circle cx="113.03" cy="52.67" r="1.15" fill="#8C2F27"/>
-<circle cx="117.4" cy="59.52" r="1.15" fill="#8C2F27"/>
-<circle cx="121.77" cy="61.28" r="1.15" fill="#8C2F27"/>
-<circle cx="126.14" cy="64.29" r="1.15" fill="#8C2F27"/>
-<circle cx="130.5" cy="59.94" r="1.15" fill="#8C2F27"/>
-<circle cx="134.87" cy="61.28" r="1.15" fill="#8C2F27"/>
-<circle cx="139.24" cy="60.6" r="1.15" fill="#8C2F27"/>
-<circle cx="143.61" cy="60.4" r="1.15" fill="#8C2F27"/>
-<circle cx="147.98" cy="57.98" r="1.15" fill="#8C2F27"/>
-<circle cx="152.35" cy="59.72" r="1.15" fill="#8C2F27"/>
-<circle cx="156.72" cy="60.89" r="1.15" fill="#8C2F27"/>
-<circle cx="161.08" cy="68.15" r="1.15" fill="#8C2F27"/>
-<circle cx="165.45" cy="68.15" r="1.15" fill="#8C2F27"/>
-<circle cx="169.82" cy="67.4" r="1.15" fill="#8C2F27"/>
-<circle cx="174.19" cy="68.8" r="1.15" fill="#8C2F27"/>
-<circle cx="178.56" cy="64.87" r="1.15" fill="#8C2F27"/>
-<circle cx="182.93" cy="58.63" r="1.15" fill="#8C2F27"/>
-<circle cx="187.3" cy="59.15" r="1.15" fill="#8C2F27"/>
-<circle cx="191.67" cy="63.87" r="1.15" fill="#8C2F27"/>
-<circle cx="196.03" cy="61.58" r="1.15" fill="#8C2F27"/>
-<circle cx="200.4" cy="62.19" r="1.15" fill="#8C2F27"/>
-<circle cx="204.77" cy="62.11" r="1.15" fill="#8C2F27"/>
-<circle cx="209.14" cy="60.14" r="1.15" fill="#8C2F27"/>
-<circle cx="213.51" cy="60.43" r="1.15" fill="#8C2F27"/>
-<circle cx="217.88" cy="62.5" r="1.15" fill="#8C2F27"/>
-<circle cx="222.25" cy="63.04" r="1.15" fill="#8C2F27"/>
+<svg viewBox='0 0 604.80 331.20'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: none;'/>
+<defs>
+  <clipPath id='cpMC4wMHw2MDQuODB8MC4wMHwzMzEuMjA='>
+    <rect x='0.00' y='0.00' width='604.80' height='331.20' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw2MDQuODB8MC4wMHwzMzEuMjA=)'>
+</g>
+<defs>
+  <clipPath id='cpNDYuMDF8NTk2LjgzfDM0LjgwfDI4NS4yNg=='>
+    <rect x='46.01' y='34.80' width='550.82' height='250.45' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNDYuMDF8NTk2LjgzfDM0LjgwfDI4NS4yNg==)'>
+<polyline points='46.01,266.09 596.83,266.09 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='46.01,215.86 596.83,215.86 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='46.01,165.63 596.83,165.63 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='46.01,115.39 596.83,115.39 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='46.01,65.16 596.83,65.16 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='71.04,285.26 71.04,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='140.59,285.26 140.59,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='210.14,285.26 210.14,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='279.69,285.26 279.69,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='349.24,285.26 349.24,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='418.79,285.26 418.79,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='488.33,285.26 488.33,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='557.88,285.26 557.88,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='71.04,170.09 84.95,98.58 98.86,84.42 112.77,100.42 126.68,46.19 140.59,128.76 154.50,125.89 168.41,150.51 182.32,192.63 196.23,142.78 210.14,128.48 224.05,137.80 237.96,195.61 251.87,210.47 265.78,235.85 279.69,199.16 293.60,210.47 307.51,204.67 321.42,203.04 335.33,182.57 349.24,197.31 363.15,207.16 377.06,268.39 390.97,268.39 404.88,262.11 418.79,273.87 432.70,240.72 446.61,188.10 460.52,192.48 474.42,232.33 488.33,213.00 502.24,218.16 516.15,217.44 530.06,200.85 543.97,203.28 557.88,220.73 571.79,225.26 ' style='stroke-width: 1.49; stroke: #8C2F27; stroke-linecap: butt;' />
+<circle cx='71.04' cy='170.09' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='84.95' cy='98.58' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='98.86' cy='84.42' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='112.77' cy='100.42' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='126.68' cy='46.19' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='140.59' cy='128.76' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='154.50' cy='125.89' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='168.41' cy='150.51' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='182.32' cy='192.63' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='196.23' cy='142.78' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='210.14' cy='128.48' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='224.05' cy='137.80' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='237.96' cy='195.61' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='251.87' cy='210.47' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='265.78' cy='235.85' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='279.69' cy='199.16' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='293.60' cy='210.47' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='307.51' cy='204.67' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='321.42' cy='203.04' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='335.33' cy='182.57' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='349.24' cy='197.31' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='363.15' cy='207.16' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='377.06' cy='268.39' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='390.97' cy='268.39' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='404.88' cy='262.11' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='418.79' cy='273.87' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='432.70' cy='240.72' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='446.61' cy='188.10' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='460.52' cy='192.48' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='474.42' cy='232.33' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='488.33' cy='213.00' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='502.24' cy='218.16' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='516.15' cy='217.44' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='530.06' cy='200.85' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='543.97' cy='203.28' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='557.88' cy='220.73' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+<circle cx='571.79' cy='225.26' r='1.53' style='stroke-width: 0.61; stroke: #8C2F27; fill: #8C2F27;' />
+</g>
+<g clip-path='url(#cpMC4wMHw2MDQuODB8MC4wMHwzMzEuMjA=)'>
+<text x='41.75' y='268.90' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='4.53px' lengthAdjust='spacingAndGlyphs'>1</text>
+<text x='41.75' y='218.66' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='9.06px' lengthAdjust='spacingAndGlyphs'>10</text>
+<text x='41.75' y='168.43' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='13.59px' lengthAdjust='spacingAndGlyphs'>100</text>
+<text x='41.75' y='118.20' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='19.77px' lengthAdjust='spacingAndGlyphs'>1 000</text>
+<text x='41.75' y='67.97' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='24.30px' lengthAdjust='spacingAndGlyphs'>10 000</text>
+<text x='71.04' y='295.13' text-anchor='middle' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='18.12px' lengthAdjust='spacingAndGlyphs'>1990</text>
+<text x='140.59' y='295.13' text-anchor='middle' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='18.12px' lengthAdjust='spacingAndGlyphs'>1995</text>
+<text x='210.14' y='295.13' text-anchor='middle' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='18.12px' lengthAdjust='spacingAndGlyphs'>2000</text>
+<text x='279.69' y='295.13' text-anchor='middle' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='18.12px' lengthAdjust='spacingAndGlyphs'>2005</text>
+<text x='349.24' y='295.13' text-anchor='middle' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='18.12px' lengthAdjust='spacingAndGlyphs'>2010</text>
+<text x='418.79' y='295.13' text-anchor='middle' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='18.12px' lengthAdjust='spacingAndGlyphs'>2015</text>
+<text x='488.33' y='295.13' text-anchor='middle' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='18.12px' lengthAdjust='spacingAndGlyphs'>2020</text>
+<text x='557.88' y='295.13' text-anchor='middle' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='18.12px' lengthAdjust='spacingAndGlyphs'>2025</text>
+<text x='321.42' y='308.55' text-anchor='middle' style='font-size: 8.36px;fill: #6F6B62; font-family: "Liberation Sans";' textLength='24.20px' lengthAdjust='spacingAndGlyphs'>Année</text>
+<text transform='translate(9.74,160.03) rotate(-90)' text-anchor='middle' style='font-size: 8.36px;fill: #6F6B62; font-family: "Liberation Sans";' textLength='80.52px' lengthAdjust='spacingAndGlyphs'>Pour cent, échelle log</text>
+<text x='3.99' y='22.99' style='font-size: 8.93px;fill: #6F6B62; font-family: "Liberation Sans";' textLength='185.27px' lengthAdjust='spacingAndGlyphs'>Taux annuel, échelle logarithmique, 1990-2026</text>
+<text x='3.99' y='12.34' style='font-size: 12.16px; font-weight: bold;fill: #002147; font-family: "Liberation Sans";' textLength='210.73px' lengthAdjust='spacingAndGlyphs'>Inflation des prix à la consommation</text>
+<text x='3.99' y='325.60' style='font-size: 7.79px;fill: #6F6B62; font-family: "Liberation Sans";' textLength='108.80px' lengthAdjust='spacingAndGlyphs'>Source : IMF, World Bank, BCC</text>
+</g>
 </g>
 </svg>

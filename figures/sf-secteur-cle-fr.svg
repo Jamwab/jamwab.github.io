@@ -1,57 +1,92 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 243.78 147.4">
-<g font-family="Iowan Old Style, Palatino Linotype, Palatino, Georgia, Cambria, serif">
-<text x="4" y="10.07" font-size="7.78" fill="#002147" font-weight="bold">Le secteur clé de l’économie congolaise</text>
-<text x="4" y="19.49" font-size="5.72" fill="#6F6B62">Croissance réelle, en pourcentage, production extractive contre reste de l’économie.</text>
-<text x="4" y="26.12" font-size="5.72" fill="#6F6B62">Le secteur extractif croît deux à six fois plus vite que le reste jusqu’en 2025, et fait</text>
-<text x="4" y="32.74" font-size="5.72" fill="#6F6B62">plus de quatre-vingt-dix-huit pour cent des exportations de biens ; il occupe environ</text>
-<text x="4" y="39.37" font-size="5.72" fill="#6F6B62">un travailleur sur neuf. L’astérisque signale une projection.</text>
-<text x="4" y="135.72" font-size="4.99" fill="#6F6B62">FMI, rapport pays 26/2, tableau 1 ; USGS ; OIT.</text>
-<text x="235.78" y="143.4" font-size="4.59" fill="#6F6B62" text-anchor="end">© 2026 James Wabenga Yango</text>
-<line x1="14.99" y1="93.08" x2="235.78" y2="93.08" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="11.99" y="95.6" font-size="7.4" fill="#22201C" text-anchor="end">0</text>
-<line x1="14.99" y1="84.06" x2="235.78" y2="84.06" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="11.99" y="86.58" font-size="7.4" fill="#22201C" text-anchor="end">5</text>
-<line x1="14.99" y1="75.05" x2="235.78" y2="75.05" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="11.99" y="77.56" font-size="7.4" fill="#22201C" text-anchor="end">10</text>
-<line x1="14.99" y1="66.03" x2="235.78" y2="66.03" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="11.99" y="68.54" font-size="7.4" fill="#22201C" text-anchor="end">15</text>
-<line x1="14.99" y1="57.01" x2="235.78" y2="57.01" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="11.99" y="59.52" font-size="7.4" fill="#22201C" text-anchor="end">20</text>
-<rect x="23.07" y="56.65" width="16.16" height="36.44" fill="#002147"/>
-<text x="31.15" y="53.65" font-size="8.25" fill="#22201C" text-anchor="middle">20,2 %</text>
-<text x="31.15" y="101.86" font-size="7.4" fill="#22201C" text-anchor="middle">2023</text>
-<text x="31.15" y="110.44" font-size="7.4" fill="#22201C" text-anchor="middle">(Extractif)</text>
-<rect x="49.99" y="86.95" width="16.16" height="6.13" fill="#3F6B52"/>
-<text x="58.07" y="83.95" font-size="8.25" fill="#22201C" text-anchor="middle">3,4 %</text>
-<text x="58.07" y="101.86" font-size="7.4" fill="#22201C" text-anchor="middle">2023</text>
-<text x="58.07" y="110.44" font-size="7.4" fill="#22201C" text-anchor="middle">(Non</text>
-<text x="58.07" y="119.02" font-size="7.4" fill="#22201C" text-anchor="middle">extractif)</text>
-<rect x="76.92" y="71.62" width="16.16" height="21.46" fill="#002147"/>
-<text x="85" y="68.62" font-size="8.25" fill="#22201C" text-anchor="middle">11,9 %</text>
-<text x="85" y="101.86" font-size="7.4" fill="#22201C" text-anchor="middle">2024</text>
-<text x="85" y="110.44" font-size="7.4" fill="#22201C" text-anchor="middle">(Extractif)</text>
-<rect x="103.85" y="87.49" width="16.16" height="5.59" fill="#3F6B52"/>
-<text x="111.92" y="84.49" font-size="8.25" fill="#22201C" text-anchor="middle">3,1 %</text>
-<text x="111.92" y="101.86" font-size="7.4" fill="#22201C" text-anchor="middle">2024</text>
-<text x="111.92" y="110.44" font-size="7.4" fill="#22201C" text-anchor="middle">(Non</text>
-<text x="111.92" y="119.02" font-size="7.4" fill="#22201C" text-anchor="middle">extractif)</text>
-<rect x="130.77" y="74.87" width="16.16" height="18.22" fill="#002147"/>
-<text x="138.85" y="71.87" font-size="8.25" fill="#22201C" text-anchor="middle">10,1 %</text>
-<text x="138.85" y="101.86" font-size="7.4" fill="#22201C" text-anchor="middle">2025*</text>
-<text x="138.85" y="110.44" font-size="7.4" fill="#22201C" text-anchor="middle">(Extractif)</text>
-<rect x="157.7" y="87.49" width="16.16" height="5.59" fill="#3F6B52"/>
-<text x="165.77" y="84.49" font-size="8.25" fill="#22201C" text-anchor="middle">3,1 %</text>
-<text x="165.77" y="101.86" font-size="7.4" fill="#22201C" text-anchor="middle">2025*</text>
-<text x="165.77" y="110.44" font-size="7.4" fill="#22201C" text-anchor="middle">(Non</text>
-<text x="165.77" y="119.02" font-size="7.4" fill="#22201C" text-anchor="middle">extractif)</text>
-<rect x="184.62" y="84.06" width="16.16" height="9.02" fill="#002147"/>
-<text x="192.7" y="81.06" font-size="8.25" fill="#22201C" text-anchor="middle">5,0 %</text>
-<text x="192.7" y="101.86" font-size="7.4" fill="#22201C" text-anchor="middle">2026*</text>
-<text x="192.7" y="110.44" font-size="7.4" fill="#22201C" text-anchor="middle">(Extractif)</text>
-<rect x="211.55" y="83.34" width="16.16" height="9.74" fill="#3F6B52"/>
-<text x="219.62" y="80.34" font-size="8.25" fill="#22201C" text-anchor="middle">5,4 %</text>
-<text x="219.62" y="101.86" font-size="7.4" fill="#22201C" text-anchor="middle">2026*</text>
-<text x="219.62" y="110.44" font-size="7.4" fill="#22201C" text-anchor="middle">(Non</text>
-<text x="219.62" y="119.02" font-size="7.4" fill="#22201C" text-anchor="middle">extractif)</text>
+<svg viewBox='0 0 619.20 374.40'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: none;'/>
+<defs>
+  <clipPath id='cpMC4wMHw2MTkuMjB8MC4wMHwzNzQuNDA='>
+    <rect x='0.00' y='0.00' width='619.20' height='374.40' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw2MTkuMjB8MC4wMHwzNzQuNDA=)'>
+</g>
+<defs>
+  <clipPath id='cpMzAuNzd8NjExLjIzfDM0LjgwfDMxOS44Mg=='>
+    <rect x='30.77' y='34.80' width='580.46' height='285.01' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMzAuNzd8NjExLjIzfDM0LjgwfDMxOS44Mg==)'>
+<polyline points='30.77,319.82 611.23,319.82 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='30.77,257.93 611.23,257.93 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='30.77,196.05 611.23,196.05 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='30.77,134.17 611.23,134.17 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='30.77,72.28 611.23,72.28 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='73.24,319.82 73.24,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='144.03,319.82 144.03,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='214.82,319.82 214.82,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='285.61,319.82 285.61,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='356.39,319.82 356.39,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='427.18,319.82 427.18,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='497.97,319.82 497.97,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='568.76,319.82 568.76,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<rect x='52.01' y='69.81' width='42.47' height='250.01' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #002147;' />
+<rect x='122.80' y='277.74' width='42.47' height='42.08' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3F6B52;' />
+<rect x='193.58' y='172.53' width='42.47' height='147.28' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #002147;' />
+<rect x='264.37' y='281.45' width='42.47' height='38.37' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3F6B52;' />
+<rect x='335.16' y='194.81' width='42.47' height='125.01' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #002147;' />
+<rect x='405.95' y='281.45' width='42.47' height='38.37' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3F6B52;' />
+<rect x='476.73' y='257.93' width='42.47' height='61.88' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #002147;' />
+<rect x='547.52' y='252.98' width='42.47' height='66.83' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3F6B52;' />
+<text x='73.24' y='66.40' text-anchor='middle' style='font-size: 8.25px;fill: #22201C; font-family: "Liberation Sans";' textLength='25.70px' lengthAdjust='spacingAndGlyphs'>20,2 %</text>
+<text x='144.03' y='274.33' text-anchor='middle' style='font-size: 8.25px;fill: #22201C; font-family: "Liberation Sans";' textLength='21.11px' lengthAdjust='spacingAndGlyphs'>3,4 %</text>
+<text x='214.82' y='169.13' text-anchor='middle' style='font-size: 8.25px;fill: #22201C; font-family: "Liberation Sans";' textLength='25.09px' lengthAdjust='spacingAndGlyphs'>11,9 %</text>
+<text x='285.61' y='278.05' text-anchor='middle' style='font-size: 8.25px;fill: #22201C; font-family: "Liberation Sans";' textLength='21.11px' lengthAdjust='spacingAndGlyphs'>3,1 %</text>
+<text x='356.39' y='191.41' text-anchor='middle' style='font-size: 8.25px;fill: #22201C; font-family: "Liberation Sans";' textLength='25.70px' lengthAdjust='spacingAndGlyphs'>10,1 %</text>
+<text x='427.18' y='278.05' text-anchor='middle' style='font-size: 8.25px;fill: #22201C; font-family: "Liberation Sans";' textLength='21.11px' lengthAdjust='spacingAndGlyphs'>3,1 %</text>
+<text x='497.97' y='254.53' text-anchor='middle' style='font-size: 8.25px;fill: #22201C; font-family: "Liberation Sans";' textLength='21.11px' lengthAdjust='spacingAndGlyphs'>5,0 %</text>
+<text x='568.76' y='249.58' text-anchor='middle' style='font-size: 8.25px;fill: #22201C; font-family: "Liberation Sans";' textLength='21.11px' lengthAdjust='spacingAndGlyphs'>5,4 %</text>
+</g>
+<g clip-path='url(#cpMC4wMHw2MTkuMjB8MC4wMHwzNzQuNDA=)'>
+<text x='26.51' y='322.62' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='4.53px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='26.51' y='260.74' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='4.53px' lengthAdjust='spacingAndGlyphs'>5</text>
+<text x='26.51' y='198.85' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='9.06px' lengthAdjust='spacingAndGlyphs'>10</text>
+<text x='26.51' y='136.97' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='9.06px' lengthAdjust='spacingAndGlyphs'>15</text>
+<text x='26.51' y='75.09' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='9.06px' lengthAdjust='spacingAndGlyphs'>20</text>
+<text x='73.24' y='329.16' text-anchor='middle' style='font-size: 7.40px;fill: #22201C; font-family: "Liberation Sans";' textLength='16.44px' lengthAdjust='spacingAndGlyphs'>2023</text>
+<text x='73.24' y='338.48' text-anchor='middle' style='font-size: 7.40px;fill: #22201C; font-family: "Liberation Sans";' textLength='31.62px' lengthAdjust='spacingAndGlyphs'>(Extractif)</text>
+<text x='144.03' y='329.16' text-anchor='middle' style='font-size: 7.40px;fill: #22201C; font-family: "Liberation Sans";' textLength='16.44px' lengthAdjust='spacingAndGlyphs'>2023</text>
+<text x='144.03' y='338.48' text-anchor='middle' style='font-size: 7.40px;fill: #22201C; font-family: "Liberation Sans";' textLength='46.42px' lengthAdjust='spacingAndGlyphs'>(Non extractif)</text>
+<text x='214.82' y='329.16' text-anchor='middle' style='font-size: 7.40px;fill: #22201C; font-family: "Liberation Sans";' textLength='16.44px' lengthAdjust='spacingAndGlyphs'>2024</text>
+<text x='214.82' y='338.48' text-anchor='middle' style='font-size: 7.40px;fill: #22201C; font-family: "Liberation Sans";' textLength='31.62px' lengthAdjust='spacingAndGlyphs'>(Extractif)</text>
+<text x='285.61' y='329.16' text-anchor='middle' style='font-size: 7.40px;fill: #22201C; font-family: "Liberation Sans";' textLength='16.44px' lengthAdjust='spacingAndGlyphs'>2024</text>
+<text x='285.61' y='338.48' text-anchor='middle' style='font-size: 7.40px;fill: #22201C; font-family: "Liberation Sans";' textLength='46.42px' lengthAdjust='spacingAndGlyphs'>(Non extractif)</text>
+<text x='356.39' y='329.16' text-anchor='middle' style='font-size: 7.40px;fill: #22201C; font-family: "Liberation Sans";' textLength='19.31px' lengthAdjust='spacingAndGlyphs'>2025*</text>
+<text x='356.39' y='338.48' text-anchor='middle' style='font-size: 7.40px;fill: #22201C; font-family: "Liberation Sans";' textLength='31.62px' lengthAdjust='spacingAndGlyphs'>(Extractif)</text>
+<text x='427.18' y='329.16' text-anchor='middle' style='font-size: 7.40px;fill: #22201C; font-family: "Liberation Sans";' textLength='19.31px' lengthAdjust='spacingAndGlyphs'>2025*</text>
+<text x='427.18' y='338.48' text-anchor='middle' style='font-size: 7.40px;fill: #22201C; font-family: "Liberation Sans";' textLength='46.42px' lengthAdjust='spacingAndGlyphs'>(Non extractif)</text>
+<text x='497.97' y='329.16' text-anchor='middle' style='font-size: 7.40px;fill: #22201C; font-family: "Liberation Sans";' textLength='19.31px' lengthAdjust='spacingAndGlyphs'>2026*</text>
+<text x='497.97' y='338.48' text-anchor='middle' style='font-size: 7.40px;fill: #22201C; font-family: "Liberation Sans";' textLength='31.62px' lengthAdjust='spacingAndGlyphs'>(Extractif)</text>
+<text x='568.76' y='329.16' text-anchor='middle' style='font-size: 7.40px;fill: #22201C; font-family: "Liberation Sans";' textLength='19.31px' lengthAdjust='spacingAndGlyphs'>2026*</text>
+<text x='568.76' y='338.48' text-anchor='middle' style='font-size: 7.40px;fill: #22201C; font-family: "Liberation Sans";' textLength='46.42px' lengthAdjust='spacingAndGlyphs'>(Non extractif)</text>
+<text x='3.99' y='22.99' style='font-size: 8.93px;fill: #6F6B62; font-family: "Liberation Sans";' textLength='1223.73px' lengthAdjust='spacingAndGlyphs'>Croissance réelle, en pourcentage, production extractive contre reste de l’économie. Le secteur extractif croît deux à six fois plus vite que le reste jusqu’en 2025, et fait plus de quatre-vingt-dix-huit pour cent des exportations de biens ; il occupe environ un travailleur sur neuf. L’astérisque signale une projection.</text>
+<text x='3.99' y='12.34' style='font-size: 12.16px; font-weight: bold;fill: #002147; font-family: "Liberation Sans";' textLength='232.42px' lengthAdjust='spacingAndGlyphs'>Le secteur clé de l’économie congolaise</text>
+<text x='3.99' y='368.80' style='font-size: 7.79px;fill: #6F6B62; font-family: "Liberation Sans";' textLength='163.81px' lengthAdjust='spacingAndGlyphs'>FMI, rapport pays 26/2, tableau 1 ; USGS ; OIT.</text>
+</g>
 </g>
 </svg>

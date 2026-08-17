@@ -1,39 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 238.11 130.39">
-<g font-family="Iowan Old Style, Palatino Linotype, Palatino, Georgia, Cambria, serif">
-<text x="4" y="10.07" font-size="7.78" fill="#002147" font-weight="bold">Ituri, les zones de santé que le bulletin nomme</text>
-<text x="4" y="19.49" font-size="5.72" fill="#6F6B62">Cas confirmés au 30 juillet 2026</text>
-<text x="4" y="107.15" font-size="4.99" fill="#6F6B62">Source : OMS, bulletin d’épidémie 2026-DON614, « Maladie à virus Bundibugyo — République</text>
-<text x="4" y="112.93" font-size="4.99" fill="#6F6B62">démocratique du Congo », 1er août 2026, révisé le 3 août 2026 ; source des données, Centre</text>
-<text x="4" y="118.72" font-size="4.99" fill="#6F6B62">des opérations d’urgences de santé publique (COUSP-RDC), chiffres arrêtés au 30 juillet 2026.</text>
-<text x="230.11" y="126.39" font-size="4.59" fill="#6F6B62" text-anchor="end">© 2026 James Wabenga Yango</text>
-<line x1="30.59" y1="31.66" x2="30.59" y2="65.09" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="30.59" y="74.46" font-size="8.17" fill="#22201C" text-anchor="middle">0</text>
-<line x1="79.45" y1="31.66" x2="79.45" y2="65.09" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="79.45" y="74.46" font-size="8.17" fill="#22201C" text-anchor="middle">250</text>
-<line x1="128.32" y1="31.66" x2="128.32" y2="65.09" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="128.32" y="74.46" font-size="8.17" fill="#22201C" text-anchor="middle">500</text>
-<line x1="177.18" y1="31.66" x2="177.18" y2="65.09" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="177.18" y="74.46" font-size="8.17" fill="#22201C" text-anchor="middle">750</text>
-<line x1="226.05" y1="31.66" x2="226.05" y2="65.09" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="226.05" y="74.46" font-size="8.17" fill="#22201C" text-anchor="middle">1 000</text>
-<text x="130.35" y="90.08" font-size="8.36" fill="#6F6B62" text-anchor="middle">Cas confirmés</text>
-<rect x="30.59" y="60.02" width="22.28" height="3.67" fill="#8C2F27"/>
-<text x="55.87" y="63.3" font-size="4.27" fill="#22201C">114</text>
-<text x="27.59" y="63.3" font-size="4.27" fill="#22201C" text-anchor="end">Nyankunde</text>
-<rect x="30.59" y="54.63" width="25.6" height="3.67" fill="#8C2F27"/>
-<text x="59.19" y="57.91" font-size="4.27" fill="#22201C">131</text>
-<text x="27.59" y="57.91" font-size="4.27" fill="#22201C" text-anchor="end">Lita</text>
-<rect x="30.59" y="49.23" width="73.69" height="3.67" fill="#8C2F27"/>
-<text x="107.27" y="52.52" font-size="4.27" fill="#22201C">377</text>
-<text x="27.59" y="52.52" font-size="4.27" fill="#22201C" text-anchor="end">Nizi</text>
-<rect x="30.59" y="43.84" width="105.74" height="3.67" fill="#8C2F27"/>
-<text x="139.33" y="47.13" font-size="4.27" fill="#22201C">541</text>
-<text x="27.59" y="47.13" font-size="4.27" fill="#22201C" text-anchor="end">Mongbwalu</text>
-<rect x="30.59" y="38.45" width="122.55" height="3.67" fill="#8C2F27"/>
-<text x="156.14" y="41.74" font-size="4.27" fill="#22201C">627</text>
-<text x="27.59" y="41.74" font-size="4.27" fill="#22201C" text-anchor="end">Rwampara</text>
-<rect x="30.59" y="33.06" width="172" height="3.67" fill="#8C2F27"/>
-<text x="205.59" y="36.34" font-size="4.27" fill="#22201C">880</text>
-<text x="27.59" y="36.34" font-size="4.27" fill="#22201C" text-anchor="end">Bunia</text>
+<svg viewBox='0 0 604.80 331.20'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: none;'/>
+<defs>
+  <clipPath id='cpMC4wMHw2MDQuODB8MC4wMHwzMzEuMjA='>
+    <rect x='0.00' y='0.00' width='604.80' height='331.20' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw2MDQuODB8MC4wMHwzMzEuMjA=)'>
+<polyline points='63.40,261.02 596.83,261.02 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='63.40,220.62 596.83,220.62 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='63.40,180.23 596.83,180.23 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='63.40,139.83 596.83,139.83 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='63.40,99.44 596.83,99.44 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='63.40,59.04 596.83,59.04 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='63.40,285.26 63.40,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='194.04,285.26 194.04,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='324.68,285.26 324.68,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='455.32,285.26 455.32,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='585.96,285.26 585.96,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<rect x='63.40' y='45.31' width='459.86' height='27.47' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='63.40' y='85.70' width='327.65' height='27.47' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='63.40' y='126.10' width='282.71' height='27.47' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='63.40' y='166.49' width='197.01' height='27.47' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='63.40' y='206.89' width='68.46' height='27.47' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='63.40' y='247.29' width='59.57' height='27.47' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<text x='525.30' y='61.68' style='font-size: 7.68px;fill: #22201C; font-family: "Liberation Sans";' textLength='12.80px' lengthAdjust='spacingAndGlyphs'>880</text>
+<text x='393.09' y='102.08' style='font-size: 7.68px;fill: #22201C; font-family: "Liberation Sans";' textLength='12.80px' lengthAdjust='spacingAndGlyphs'>627</text>
+<text x='348.15' y='142.47' style='font-size: 7.68px;fill: #22201C; font-family: "Liberation Sans";' textLength='12.80px' lengthAdjust='spacingAndGlyphs'>541</text>
+<text x='262.45' y='182.87' style='font-size: 7.68px;fill: #22201C; font-family: "Liberation Sans";' textLength='12.80px' lengthAdjust='spacingAndGlyphs'>377</text>
+<text x='133.90' y='223.26' style='font-size: 7.68px;fill: #22201C; font-family: "Liberation Sans";' textLength='12.80px' lengthAdjust='spacingAndGlyphs'>131</text>
+<text x='124.93' y='263.66' style='font-size: 7.68px;fill: #22201C; font-family: "Liberation Sans";' textLength='12.23px' lengthAdjust='spacingAndGlyphs'>114</text>
+<text x='59.14' y='263.82' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='41.23px' lengthAdjust='spacingAndGlyphs'>Nyankunde</text>
+<text x='59.14' y='223.43' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='13.14px' lengthAdjust='spacingAndGlyphs'>Lita</text>
+<text x='59.14' y='183.03' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='13.59px' lengthAdjust='spacingAndGlyphs'>Nizi</text>
+<text x='59.14' y='142.64' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='41.69px' lengthAdjust='spacingAndGlyphs'>Mongbwalu</text>
+<text x='59.14' y='102.24' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='39.42px' lengthAdjust='spacingAndGlyphs'>Rwampara</text>
+<text x='59.14' y='61.85' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='20.84px' lengthAdjust='spacingAndGlyphs'>Bunia</text>
+<text x='63.40' y='295.13' text-anchor='middle' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='4.53px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='194.04' y='295.13' text-anchor='middle' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='13.59px' lengthAdjust='spacingAndGlyphs'>250</text>
+<text x='324.68' y='295.13' text-anchor='middle' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='13.59px' lengthAdjust='spacingAndGlyphs'>500</text>
+<text x='455.32' y='295.13' text-anchor='middle' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='13.59px' lengthAdjust='spacingAndGlyphs'>750</text>
+<text x='585.96' y='295.13' text-anchor='middle' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='19.77px' lengthAdjust='spacingAndGlyphs'>1 000</text>
+<text x='330.11' y='308.55' text-anchor='middle' style='font-size: 8.36px;fill: #6F6B62; font-family: "Liberation Sans";' textLength='53.48px' lengthAdjust='spacingAndGlyphs'>Cas confirmés</text>
+<text x='3.99' y='22.99' style='font-size: 8.93px;fill: #6F6B62; font-family: "Liberation Sans";' textLength='127.12px' lengthAdjust='spacingAndGlyphs'>Cas confirmés au 30 juillet 2026</text>
+<text x='3.99' y='12.34' style='font-size: 12.16px; font-weight: bold;fill: #002147; font-family: "Liberation Sans";' textLength='268.83px' lengthAdjust='spacingAndGlyphs'>Ituri, les zones de santé que le bulletin nomme</text>
+<text x='3.99' y='325.60' style='font-size: 7.79px;fill: #6F6B62; font-family: "Liberation Sans";' textLength='982.97px' lengthAdjust='spacingAndGlyphs'>Source : OMS, bulletin d’épidémie 2026-DON614, « Maladie à virus Bundibugyo — République démocratique du Congo », 1er août 2026, révisé le 3 août 2026 ; source des données, Centre des opérations d’urgences de santé publique (COUSP-RDC), chiffres arrêtés au 30 juillet 2026.</text>
+</g>
 </g>
 </svg>

@@ -1,57 +1,75 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 238.11 181.42">
-<g font-family="Iowan Old Style, Palatino Linotype, Palatino, Georgia, Cambria, serif">
-<text x="4" y="13.48" font-size="12.16" fill="#002147" font-weight="bold">Cinq traits de structure</text>
-<text x="4" y="27.07" font-size="8.93" fill="#6F6B62">En pourcentage. Parts publiées, dernier exercice</text>
-<text x="4" y="37.43" font-size="8.93" fill="#6F6B62">disponible.</text>
-<text x="4" y="165.42" font-size="7.79" fill="#6F6B62">FMI article IV, ITIE-RDC, USGS, Global Findex.</text>
-<text x="230.11" y="177.42" font-size="7.17" fill="#6F6B62" text-anchor="end">© 2026 James Wabenga Yango</text>
-<line x1="18.99" y1="94.84" x2="230.11" y2="94.84" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="15.99" y="97.36" font-size="7.4" fill="#22201C" text-anchor="end">0</text>
-<line x1="18.99" y1="85.08" x2="230.11" y2="85.08" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="15.99" y="87.6" font-size="7.4" fill="#22201C" text-anchor="end">25</text>
-<line x1="18.99" y1="75.32" x2="230.11" y2="75.32" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="15.99" y="77.84" font-size="7.4" fill="#22201C" text-anchor="end">50</text>
-<line x1="18.99" y1="65.56" x2="230.11" y2="65.56" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="15.99" y="68.08" font-size="7.4" fill="#22201C" text-anchor="end">75</text>
-<line x1="18.99" y1="55.8" x2="230.11" y2="55.8" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="15.99" y="58.32" font-size="7.4" fill="#22201C" text-anchor="end">100</text>
-<rect x="31.17" y="56.23" width="24.36" height="38.61" fill="#002147"/>
-<text x="43.35" y="53.23" font-size="8.25" fill="#22201C" text-anchor="middle">98,9 %</text>
-<text x="43.35" y="103.61" font-size="7.4" fill="#22201C" text-anchor="middle">Mines,</text>
-<text x="43.35" y="112.2" font-size="7.4" fill="#22201C" text-anchor="middle">part des</text>
-<text x="43.35" y="120.78" font-size="7.4" fill="#22201C" text-anchor="middle">exportations</text>
-<text x="43.35" y="129.36" font-size="7.4" fill="#22201C" text-anchor="middle">(FMI,</text>
-<text x="43.35" y="137.95" font-size="7.4" fill="#22201C" text-anchor="middle">article</text>
-<text x="43.35" y="146.53" font-size="7.4" fill="#22201C" text-anchor="middle">IV)</text>
-<rect x="71.77" y="76.88" width="24.36" height="17.96" fill="#3F6B52"/>
-<text x="83.95" y="73.88" font-size="8.25" fill="#22201C" text-anchor="middle">46,0 %</text>
-<text x="83.95" y="103.61" font-size="7.4" fill="#22201C" text-anchor="middle">Mines,</text>
-<text x="83.95" y="112.2" font-size="7.4" fill="#22201C" text-anchor="middle">part des</text>
-<text x="83.95" y="120.78" font-size="7.4" fill="#22201C" text-anchor="middle">recettes</text>
-<text x="83.95" y="129.36" font-size="7.4" fill="#22201C" text-anchor="middle">fiscales</text>
-<text x="83.95" y="137.95" font-size="7.4" fill="#22201C" text-anchor="middle">(ITIE-RDC)</text>
-<rect x="112.37" y="65.17" width="24.36" height="29.67" fill="#8A6A18"/>
-<text x="124.55" y="62.17" font-size="8.25" fill="#22201C" text-anchor="middle">76,0 %</text>
-<text x="124.55" y="103.61" font-size="7.4" fill="#22201C" text-anchor="middle">Cobalt,</text>
-<text x="124.55" y="112.2" font-size="7.4" fill="#22201C" text-anchor="middle">part de la</text>
-<text x="124.55" y="120.78" font-size="7.4" fill="#22201C" text-anchor="middle">production</text>
-<text x="124.55" y="129.36" font-size="7.4" fill="#22201C" text-anchor="middle">mondiale</text>
-<text x="124.55" y="137.95" font-size="7.4" fill="#22201C" text-anchor="middle">(USGS)</text>
-<rect x="152.97" y="59.35" width="24.36" height="35.49" fill="#5B3A6B"/>
-<text x="165.15" y="56.35" font-size="8.25" fill="#22201C" text-anchor="middle">90,9 %</text>
-<text x="165.15" y="103.61" font-size="7.4" fill="#22201C" text-anchor="middle">Dépôts</text>
-<text x="165.15" y="112.2" font-size="7.4" fill="#22201C" text-anchor="middle">en</text>
-<text x="165.15" y="120.78" font-size="7.4" fill="#22201C" text-anchor="middle">devises</text>
-<text x="165.15" y="129.36" font-size="7.4" fill="#22201C" text-anchor="middle">(FMI,</text>
-<text x="165.15" y="137.95" font-size="7.4" fill="#22201C" text-anchor="middle">article</text>
-<text x="165.15" y="146.53" font-size="7.4" fill="#22201C" text-anchor="middle">IV)</text>
-<rect x="193.57" y="84.69" width="24.36" height="10.15" fill="#8C2F27"/>
-<text x="205.75" y="81.69" font-size="8.25" fill="#22201C" text-anchor="middle">26,0 %</text>
-<text x="205.75" y="103.61" font-size="7.4" fill="#22201C" text-anchor="middle">Adultes</text>
-<text x="205.75" y="112.2" font-size="7.4" fill="#22201C" text-anchor="middle">titulaires</text>
-<text x="205.75" y="120.78" font-size="7.4" fill="#22201C" text-anchor="middle">d’un</text>
-<text x="205.75" y="129.36" font-size="7.4" fill="#22201C" text-anchor="middle">compte</text>
-<text x="205.75" y="137.95" font-size="7.4" fill="#22201C" text-anchor="middle">(Global</text>
-<text x="205.75" y="146.53" font-size="7.4" fill="#22201C" text-anchor="middle">Findex)</text>
+<svg viewBox='0 0 604.80 460.80'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: none;'/>
+<defs>
+  <clipPath id='cpMC4wMHw2MDQuODB8MC4wMHw0NjAuODA='>
+    <rect x='0.00' y='0.00' width='604.80' height='460.80' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw2MDQuODB8MC4wMHw0NjAuODA=)'>
+</g>
+<defs>
+  <clipPath id='cpMzAuNzd8NTk2LjgzfDM0LjgwfDQwNi4yMg=='>
+    <rect x='30.77' y='34.80' width='566.06' height='371.41' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMzAuNzd8NTk2LjgzfDM0LjgwfDQwNi4yMg==)'>
+<polyline points='30.77,406.22 596.83,406.22 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='30.77,307.39 596.83,307.39 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='30.77,208.56 596.83,208.56 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='30.77,109.74 596.83,109.74 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='96.09,406.22 96.09,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='204.94,406.22 204.94,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='313.80,406.22 313.80,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='422.66,406.22 422.66,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='531.52,406.22 531.52,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<rect x='63.43' y='80.42' width='65.31' height='325.80' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #002147;' />
+<rect x='172.29' y='254.68' width='65.31' height='151.54' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3F6B52;' />
+<rect x='281.14' y='155.85' width='65.31' height='250.36' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8A6A18;' />
+<rect x='390.00' y='106.77' width='65.31' height='299.45' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #5B3A6B;' />
+<rect x='498.86' y='320.57' width='65.31' height='85.65' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<text x='96.09' y='77.01' text-anchor='middle' style='font-size: 8.25px;fill: #22201C; font-family: "Liberation Sans";' textLength='25.70px' lengthAdjust='spacingAndGlyphs'>98,9 %</text>
+<text x='204.94' y='251.28' text-anchor='middle' style='font-size: 8.25px;fill: #22201C; font-family: "Liberation Sans";' textLength='25.70px' lengthAdjust='spacingAndGlyphs'>46,0 %</text>
+<text x='313.80' y='152.45' text-anchor='middle' style='font-size: 8.25px;fill: #22201C; font-family: "Liberation Sans";' textLength='25.70px' lengthAdjust='spacingAndGlyphs'>76,0 %</text>
+<text x='422.66' y='103.37' text-anchor='middle' style='font-size: 8.25px;fill: #22201C; font-family: "Liberation Sans";' textLength='25.70px' lengthAdjust='spacingAndGlyphs'>90,9 %</text>
+<text x='531.52' y='317.16' text-anchor='middle' style='font-size: 8.25px;fill: #22201C; font-family: "Liberation Sans";' textLength='25.70px' lengthAdjust='spacingAndGlyphs'>26,0 %</text>
+</g>
+<g clip-path='url(#cpMC4wMHw2MDQuODB8MC4wMHw0NjAuODA=)'>
+<text x='26.51' y='409.02' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='4.53px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='26.51' y='310.19' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='9.06px' lengthAdjust='spacingAndGlyphs'>30</text>
+<text x='26.51' y='211.37' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='9.06px' lengthAdjust='spacingAndGlyphs'>60</text>
+<text x='26.51' y='112.54' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='9.06px' lengthAdjust='spacingAndGlyphs'>90</text>
+<text x='96.09' y='415.56' text-anchor='middle' style='font-size: 7.40px;fill: #22201C; font-family: "Liberation Sans";' textLength='92.83px' lengthAdjust='spacingAndGlyphs'>Mines, part des exportations</text>
+<text x='96.09' y='424.88' text-anchor='middle' style='font-size: 7.40px;fill: #22201C; font-family: "Liberation Sans";' textLength='50.48px' lengthAdjust='spacingAndGlyphs'>(FMI, article IV)</text>
+<text x='204.94' y='415.56' text-anchor='middle' style='font-size: 7.40px;fill: #22201C; font-family: "Liberation Sans";' textLength='105.56px' lengthAdjust='spacingAndGlyphs'>Mines, part des recettes fiscales</text>
+<text x='204.94' y='424.88' text-anchor='middle' style='font-size: 7.40px;fill: #22201C; font-family: "Liberation Sans";' textLength='36.97px' lengthAdjust='spacingAndGlyphs'>(ITIE-RDC)</text>
+<text x='313.80' y='415.56' text-anchor='middle' style='font-size: 7.40px;fill: #22201C; font-family: "Liberation Sans";' textLength='124.84px' lengthAdjust='spacingAndGlyphs'>Cobalt, part de la production mondiale</text>
+<text x='313.80' y='424.88' text-anchor='middle' style='font-size: 7.40px;fill: #22201C; font-family: "Liberation Sans";' textLength='25.88px' lengthAdjust='spacingAndGlyphs'>(USGS)</text>
+<text x='422.66' y='415.56' text-anchor='middle' style='font-size: 7.40px;fill: #22201C; font-family: "Liberation Sans";' textLength='60.81px' lengthAdjust='spacingAndGlyphs'>Dépôts en devises</text>
+<text x='422.66' y='424.88' text-anchor='middle' style='font-size: 7.40px;fill: #22201C; font-family: "Liberation Sans";' textLength='50.48px' lengthAdjust='spacingAndGlyphs'>(FMI, article IV)</text>
+<text x='531.52' y='415.56' text-anchor='middle' style='font-size: 7.40px;fill: #22201C; font-family: "Liberation Sans";' textLength='96.50px' lengthAdjust='spacingAndGlyphs'>Adultes titulaires d’un compte</text>
+<text x='531.52' y='424.88' text-anchor='middle' style='font-size: 7.40px;fill: #22201C; font-family: "Liberation Sans";' textLength='50.53px' lengthAdjust='spacingAndGlyphs'>(Global Findex)</text>
+<text x='3.99' y='22.99' style='font-size: 8.93px;fill: #6F6B62; font-family: "Liberation Sans";' textLength='238.38px' lengthAdjust='spacingAndGlyphs'>En pourcentage. Parts publiées, dernier exercice disponible.</text>
+<text x='3.99' y='12.34' style='font-size: 12.16px; font-weight: bold;fill: #002147; font-family: "Liberation Sans";' textLength='133.75px' lengthAdjust='spacingAndGlyphs'>Cinq traits de structure</text>
+<text x='3.99' y='455.20' style='font-size: 7.79px;fill: #6F6B62; font-family: "Liberation Sans";' textLength='163.97px' lengthAdjust='spacingAndGlyphs'>FMI article IV, ITIE-RDC, USGS, Global Findex.</text>
+</g>
 </g>
 </svg>

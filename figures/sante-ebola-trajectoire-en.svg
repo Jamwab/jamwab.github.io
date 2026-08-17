@@ -1,34 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 238.11 153.07">
-<g font-family="Iowan Old Style, Palatino Linotype, Palatino, Georgia, Cambria, serif">
-<text x="4" y="11.21" font-size="9.24" fill="#002147" font-weight="bold">The seventeenth outbreak, bulletin by bulletin</text>
-<text x="4" y="22.01" font-size="6.79" fill="#6F6B62">Cumulative confirmed cases and deaths, 15 May to 12 August 2026</text>
-<text x="4" y="126.22" font-size="5.92" fill="#6F6B62">Source: OMS, les dix bulletins d’épidémie de la série, 2026-DON602 du 16 mai</text>
-<text x="4" y="133.09" font-size="5.92" fill="#6F6B62">2026 à 2026-DON615 du 14 août 2026. Chaque ligne est citée du bulletin qui la</text>
-<text x="4" y="139.95" font-size="5.92" fill="#6F6B62">porte ; aucune n’est calculée à partir d’une autre.</text>
-<text x="230.11" y="149.07" font-size="5.45" fill="#6F6B62" text-anchor="end">© 2026 James Wabenga Yango</text>
-<rect x="4" y="35.58" width="7.5" height="7.5" fill="#8C2F27"/>
-<text x="14.5" y="42.11" font-size="8.17" fill="#22201C">Confirmed cases</text>
-<rect x="89.69" y="35.58" width="7.5" height="7.5" fill="#002147"/>
-<text x="100.19" y="42.11" font-size="8.17" fill="#22201C">Deaths</text>
-<line x1="83.84" y1="48.07" x2="83.84" y2="83.43" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="83.84" y="92.8" font-size="8.17" fill="#22201C" text-anchor="middle">Jun 2026</text>
-<line x1="141.24" y1="48.07" x2="141.24" y2="83.43" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="141.24" y="92.8" font-size="8.17" fill="#22201C" text-anchor="middle">Jul 2026</text>
-<line x1="200.55" y1="48.07" x2="200.55" y2="83.43" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="200.55" y="92.8" font-size="8.17" fill="#22201C" text-anchor="middle">Aug 2026</text>
-<line x1="42.8" y1="81.85" x2="230.11" y2="81.85" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="39.8" y="84.62" font-size="8.17" fill="#22201C" text-anchor="end">0</text>
-<line x1="42.8" y1="74.95" x2="230.11" y2="74.95" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="39.8" y="77.73" font-size="8.17" fill="#22201C" text-anchor="end">1,000</text>
-<line x1="42.8" y1="68.05" x2="230.11" y2="68.05" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="39.8" y="70.83" font-size="8.17" fill="#22201C" text-anchor="end">2,000</text>
-<line x1="42.8" y1="61.16" x2="230.11" y2="61.16" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="39.8" y="63.94" font-size="8.17" fill="#22201C" text-anchor="end">3,000</text>
-<line x1="42.8" y1="54.26" x2="230.11" y2="54.26" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="39.8" y="57.04" font-size="8.17" fill="#22201C" text-anchor="end">4,000</text>
-<text x="136.45" y="108.42" font-size="8.36" fill="#6F6B62" text-anchor="middle">Date figures were taken</text>
-<text x="10.52" y="65.75" font-size="8.36" fill="#6F6B62" text-anchor="middle" transform="rotate(-90 10.52 65.75)">Persons</text>
-<polyline points="62.79,81.27 74.27,80.98 93.4,78.29 101.06,77.18 114.45,75.67 141.24,71.78 168.02,67.2 196.72,56.99 221.6,49.68" fill="none" stroke="#8C2F27" stroke-width="0.65" stroke-linejoin="round" stroke-linecap="round"/>
-<polyline points="51.31,81.82 62.79,81.78 74.27,81.73 93.4,81.22 101.06,80.91 114.45,80.25 141.24,78.73 168.02,76.14 196.72,70.9 221.6,66.79" fill="none" stroke="#002147" stroke-width="0.65" stroke-linejoin="round" stroke-linecap="round"/>
+<svg viewBox='0 0 604.80 388.80'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: none;'/>
+<defs>
+  <clipPath id='cpMC4wMHw2MDQuODB8MC4wMHwzODguODA='>
+    <rect x='0.00' y='0.00' width='604.80' height='388.80' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw2MDQuODB8MC4wMHwzODguODA=)'>
+</g>
+<defs>
+  <clipPath id='cpNDIuMTB8NTk2LjgzfDUxLjI0fDM1NC40Mg=='>
+    <rect x='42.10' y='51.24' width='554.73' height='303.17' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNDIuMTB8NTk2LjgzfDUxLjI0fDM1NC40Mg==)'>
+<polyline points='42.10,340.87 596.83,340.87 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='42.10,281.74 596.83,281.74 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='42.10,222.61 596.83,222.61 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='42.10,163.48 596.83,163.48 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='42.10,104.35 596.83,104.35 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='101.31,335.97 135.31,333.48 191.97,310.42 214.64,300.90 254.30,287.89 333.63,254.54 412.96,215.28 497.95,127.70 571.61,65.02 ' style='stroke-width: 1.39; stroke: #8C2F27; stroke-linecap: butt;' />
+<polyline points='67.32,340.64 101.31,340.34 135.31,339.87 191.97,335.49 214.64,332.83 254.30,327.15 333.63,314.15 412.96,291.91 497.95,247.03 571.61,211.73 ' style='stroke-width: 1.39; stroke: #002147; stroke-linecap: butt;' />
+</g>
+<g clip-path='url(#cpMC4wMHw2MDQuODB8MC4wMHwzODguODA=)'>
+<text x='37.84' y='343.68' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='4.53px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='37.84' y='284.55' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='20.39px' lengthAdjust='spacingAndGlyphs'>1,000</text>
+<text x='37.84' y='225.41' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='20.39px' lengthAdjust='spacingAndGlyphs'>2,000</text>
+<text x='37.84' y='166.28' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='20.39px' lengthAdjust='spacingAndGlyphs'>3,000</text>
+<text x='37.84' y='107.15' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='20.39px' lengthAdjust='spacingAndGlyphs'>4,000</text>
+<text x='319.47' y='366.15' text-anchor='middle' style='font-size: 8.36px;fill: #6F6B62; font-family: "Liberation Sans";' textLength='88.39px' lengthAdjust='spacingAndGlyphs'>Date figures were taken</text>
+<text transform='translate(9.74,202.83) rotate(-90)' text-anchor='middle' style='font-size: 8.36px;fill: #6F6B62; font-family: "Liberation Sans";' textLength='30.70px' lengthAdjust='spacingAndGlyphs'>Persons</text>
+<line x1='43.83' y1='39.29' x2='57.65' y2='39.29' style='stroke-width: 1.39; stroke: #8C2F27; stroke-linecap: butt;' />
+<line x1='131.74' y1='39.29' x2='145.57' y2='39.29' style='stroke-width: 1.39; stroke: #002147; stroke-linecap: butt;' />
+<text x='64.11' y='42.09' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='61.17px' lengthAdjust='spacingAndGlyphs'>Confirmed cases</text>
+<text x='152.03' y='42.09' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='25.83px' lengthAdjust='spacingAndGlyphs'>Deaths</text>
+<text x='3.99' y='22.99' style='font-size: 8.93px;fill: #6F6B62; font-family: "Liberation Sans";' textLength='267.69px' lengthAdjust='spacingAndGlyphs'>Cumulative confirmed cases and deaths, 15 May to 12 August 2026</text>
+<text x='3.99' y='12.34' style='font-size: 12.16px; font-weight: bold;fill: #002147; font-family: "Liberation Sans";' textLength='264.75px' lengthAdjust='spacingAndGlyphs'>The seventeenth outbreak, bulletin by bulletin</text>
+<text x='3.99' y='383.20' style='font-size: 7.79px;fill: #6F6B62; font-family: "Liberation Sans";' textLength='719.72px' lengthAdjust='spacingAndGlyphs'>Source: OMS, les dix bulletins d’épidémie de la série, 2026-DON602 du 16 mai 2026 à 2026-DON615 du 14 août 2026. Chaque ligne est citée du bulletin qui la porte ; aucune n’est calculée à partir d’une autre.</text>
+</g>
 </g>
 </svg>

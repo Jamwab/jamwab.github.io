@@ -1,84 +1,97 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 243.78 141.73">
-<g font-family="Iowan Old Style, Palatino Linotype, Palatino, Georgia, Cambria, serif">
-<text x="4" y="10.64" font-size="8.51" fill="#002147" font-weight="bold">The real cycle, by political period</text>
-<text x="4" y="20.75" font-size="6.25" fill="#6F6B62">Real GDP growth, per cent. The colour marks the period and the dashed line</text>
-<text x="4" y="28" font-size="6.25" fill="#6F6B62">the average growth of that period, which came to -6.3 per cent in the late</text>
-<text x="4" y="35.25" font-size="6.25" fill="#6F6B62">Mobutu years, -5.9 per cent during the war and the transition, 5.8 per cent</text>
-<text x="4" y="42.5" font-size="6.25" fill="#6F6B62">during the reconstruction and 5.3 per cent under the present administration.</text>
-<text x="4" y="129.33" font-size="5.45" fill="#6F6B62">IMF, World Bank, BCC, AfDB.</text>
-<text x="235.78" y="137.73" font-size="5.02" fill="#6F6B62" text-anchor="end">© 2026 James Wabenga Yango</text>
-<rect x="4" y="55.87" width="7.5" height="7.5" fill="#8C2F27"/>
-<text x="14.5" y="62.39" font-size="8.17" fill="#22201C">Late Mobutu years</text>
-<rect x="96.58" y="55.87" width="7.5" height="7.5" fill="#4A5A6A"/>
-<text x="107.08" y="62.39" font-size="8.17" fill="#22201C">War and transition</text>
-<rect x="4" y="65.34" width="7.5" height="7.5" fill="#3F6B52"/>
-<text x="14.5" y="71.87" font-size="8.17" fill="#22201C">Reconstruction</text>
-<rect x="82.34" y="65.34" width="7.5" height="7.5" fill="#002147"/>
-<text x="92.84" y="71.87" font-size="8.17" fill="#22201C">Present administration</text>
-<line x1="28.63" y1="77.83" x2="28.63" y2="102.6" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="28.63" y="111.98" font-size="8.17" fill="#22201C" text-anchor="middle">1990</text>
-<line x1="56.81" y1="77.83" x2="56.81" y2="102.6" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="56.81" y="111.98" font-size="8.17" fill="#22201C" text-anchor="middle">1995</text>
-<line x1="84.99" y1="77.83" x2="84.99" y2="102.6" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="84.99" y="111.98" font-size="8.17" fill="#22201C" text-anchor="middle">2000</text>
-<line x1="113.18" y1="77.83" x2="113.18" y2="102.6" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="113.18" y="111.98" font-size="8.17" fill="#22201C" text-anchor="middle">2005</text>
-<line x1="141.36" y1="77.83" x2="141.36" y2="102.6" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="141.36" y="111.98" font-size="8.17" fill="#22201C" text-anchor="middle">2010</text>
-<line x1="169.55" y1="77.83" x2="169.55" y2="102.6" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="169.55" y="111.98" font-size="8.17" fill="#22201C" text-anchor="middle">2015</text>
-<line x1="197.73" y1="77.83" x2="197.73" y2="102.6" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="197.73" y="111.98" font-size="8.17" fill="#22201C" text-anchor="middle">2020</text>
-<line x1="225.92" y1="77.83" x2="225.92" y2="102.6" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="225.92" y="111.98" font-size="8.17" fill="#22201C" text-anchor="middle">2025</text>
-<line x1="18.76" y1="98.1" x2="235.78" y2="98.1" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="15.76" y="100.87" font-size="8.17" fill="#22201C" text-anchor="end">-10</text>
-<line x1="18.76" y1="93.26" x2="235.78" y2="93.26" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="15.76" y="96.04" font-size="8.17" fill="#22201C" text-anchor="end">-5</text>
-<line x1="18.76" y1="88.43" x2="235.78" y2="88.43" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="15.76" y="91.21" font-size="8.17" fill="#22201C" text-anchor="end">0</text>
-<line x1="18.76" y1="83.6" x2="235.78" y2="83.6" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="15.76" y="86.38" font-size="8.17" fill="#22201C" text-anchor="end">5</text>
-<rect x="26.54" y="88.43" width="4.17" height="6.38" fill="#8C2F27"/>
-<rect x="32.18" y="88.43" width="4.17" height="8.12" fill="#8C2F27"/>
-<rect x="37.81" y="88.43" width="4.17" height="10.15" fill="#8C2F27"/>
-<rect x="43.45" y="88.43" width="4.17" height="13.05" fill="#8C2F27"/>
-<rect x="49.09" y="88.43" width="4.17" height="5.9" fill="#8C2F27"/>
-<rect x="54.72" y="85.72" width="4.17" height="2.71" fill="#8C2F27"/>
-<rect x="60.36" y="88.43" width="4.17" height="1.84" fill="#8C2F27"/>
-<rect x="66" y="88.43" width="4.17" height="7.54" fill="#4A5A6A"/>
-<rect x="71.64" y="88.43" width="4.17" height="3.77" fill="#4A5A6A"/>
-<rect x="77.27" y="88.43" width="4.17" height="3.67" fill="#4A5A6A"/>
-<rect x="82.91" y="88.43" width="4.17" height="7.83" fill="#4A5A6A"/>
-<rect x="88.55" y="88.43" width="4.17" height="2.03" fill="#3F6B52"/>
-<rect x="94.18" y="85.63" width="4.17" height="2.8" fill="#3F6B52"/>
-<rect x="99.82" y="82.05" width="4.17" height="6.38" fill="#3F6B52"/>
-<rect x="105.46" y="80.99" width="4.17" height="7.44" fill="#3F6B52"/>
-<rect x="111.09" y="78.96" width="4.17" height="9.47" fill="#3F6B52"/>
-<rect x="116.73" y="83.5" width="4.17" height="4.93" fill="#3F6B52"/>
-<rect x="122.37" y="80.22" width="4.17" height="8.22" fill="#3F6B52"/>
-<rect x="128" y="81.28" width="4.17" height="7.15" fill="#3F6B52"/>
-<rect x="133.64" y="87.85" width="4.17" height="0.58" fill="#3F6B52"/>
-<rect x="139.28" y="80.89" width="4.17" height="7.54" fill="#3F6B52"/>
-<rect x="144.91" y="81.09" width="4.17" height="7.35" fill="#3F6B52"/>
-<rect x="150.55" y="80.02" width="4.17" height="8.41" fill="#3F6B52"/>
-<rect x="156.19" y="79.15" width="4.17" height="9.28" fill="#3F6B52"/>
-<rect x="161.82" y="81.38" width="4.17" height="7.06" fill="#3F6B52"/>
-<rect x="167.46" y="82.25" width="4.17" height="6.19" fill="#3F6B52"/>
-<rect x="173.1" y="88.04" width="4.17" height="0.39" fill="#3F6B52"/>
-<rect x="178.74" y="84.37" width="4.17" height="4.06" fill="#3F6B52"/>
-<rect x="184.37" y="82.53" width="4.17" height="5.9" fill="#3F6B52"/>
-<rect x="190.01" y="87.85" width="4.17" height="0.58" fill="#002147"/>
-<rect x="195.65" y="87.66" width="4.17" height="0.77" fill="#002147"/>
-<rect x="201.28" y="82.25" width="4.17" height="6.19" fill="#002147"/>
-<rect x="206.92" y="79.44" width="4.17" height="8.99" fill="#002147"/>
-<rect x="212.56" y="80.22" width="4.17" height="8.22" fill="#002147"/>
-<rect x="218.19" y="82.53" width="4.17" height="5.9" fill="#002147"/>
-<rect x="223.83" y="82.92" width="4.17" height="5.51" fill="#002147"/>
-<line x1="18.76" y1="88.43" x2="235.78" y2="88.43" stroke="#22201C" stroke-width="0.4"/>
-<line x1="26.09" y1="94.53" x2="64.98" y2="94.53" stroke="#22201C" stroke-width="0.5" stroke-dasharray="2,2"/>
-<line x1="65.55" y1="94.13" x2="87.53" y2="94.13" stroke="#22201C" stroke-width="0.5" stroke-dasharray="2,2"/>
-<line x1="88.09" y1="82.81" x2="188.99" y2="82.81" stroke="#22201C" stroke-width="0.5" stroke-dasharray="2,2"/>
-<line x1="189.56" y1="83.27" x2="228.45" y2="83.27" stroke="#22201C" stroke-width="0.5" stroke-dasharray="2,2"/>
+<svg viewBox='0 0 619.20 360.00'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: none;'/>
+<defs>
+  <clipPath id='cpMC4wMHw2MTkuMjB8MC4wMHwzNjAuMDA='>
+    <rect x='0.00' y='0.00' width='619.20' height='360.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw2MTkuMjB8MC4wMHwzNjAuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpMzMuNDl8NjExLjIzfDUxLjI0fDMxNC4wNg=='>
+    <rect x='33.49' y='51.24' width='577.74' height='262.81' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMzMuNDl8NjExLjIzfDUxLjI0fDMxNC4wNg==)'>
+<polyline points='33.49,275.14 611.23,275.14 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='33.49,198.06 611.23,198.06 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='33.49,120.99 611.23,120.99 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='68.54,314.06 68.54,51.24 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='166.16,314.06 166.16,51.24 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='263.79,314.06 263.79,51.24 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='361.41,314.06 361.41,51.24 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='459.03,314.06 459.03,51.24 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='556.66,314.06 556.66,51.24 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<line x1='33.49' y1='198.06' x2='611.23' y2='198.06' style='stroke-width: 0.85; stroke: #22201C; stroke-linecap: butt;' />
+<rect x='61.31' y='198.06' width='14.45' height='50.87' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='80.84' y='198.06' width='14.45' height='64.74' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='100.36' y='198.06' width='14.45' height='80.93' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='119.89' y='198.06' width='14.45' height='104.05' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='139.41' y='198.06' width='14.45' height='30.06' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='158.94' y='192.67' width='14.45' height='5.40' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='178.46' y='198.06' width='14.45' height='7.71' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='197.99' y='198.06' width='14.45' height='43.16' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #4A5A6A;' />
+<rect x='217.51' y='198.06' width='14.45' height='12.33' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #4A5A6A;' />
+<rect x='237.04' y='198.06' width='14.45' height='33.14' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #4A5A6A;' />
+<rect x='256.56' y='198.06' width='14.45' height='53.18' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #4A5A6A;' />
+<rect x='276.09' y='198.06' width='14.45' height='16.19' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3F6B52;' />
+<rect x='295.61' y='175.71' width='14.45' height='22.35' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3F6B52;' />
+<rect x='315.14' y='154.90' width='14.45' height='43.16' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3F6B52;' />
+<rect x='334.66' y='146.43' width='14.45' height='51.64' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3F6B52;' />
+<rect x='354.19' y='151.05' width='14.45' height='47.01' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3F6B52;' />
+<rect x='373.71' y='158.76' width='14.45' height='39.31' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3F6B52;' />
+<rect x='393.24' y='131.78' width='14.45' height='66.28' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3F6B52;' />
+<rect x='412.76' y='141.03' width='14.45' height='57.03' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3F6B52;' />
+<rect x='432.29' y='194.21' width='14.45' height='3.85' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3F6B52;' />
+<rect x='451.81' y='131.78' width='14.45' height='66.28' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3F6B52;' />
+<rect x='471.33' y='198.06' width='14.45' height='3.08' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3F6B52;' />
+<rect x='490.86' y='131.01' width='14.45' height='67.05' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3F6B52;' />
+<rect x='510.38' y='63.19' width='14.45' height='134.88' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3F6B52;' />
+<rect x='529.91' y='141.80' width='14.45' height='56.26' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3F6B52;' />
+<rect x='549.43' y='148.74' width='14.45' height='49.33' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3F6B52;' />
+<rect x='568.96' y='194.98' width='14.45' height='3.08' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3F6B52;' />
+<line x1='59.75' y1='245.63' x2='194.47' y2='245.63' style='stroke-width: 1.07; stroke: #22201C; stroke-dasharray: 2.85,2.85; stroke-linecap: butt;' />
+<line x1='196.43' y1='233.52' x2='272.57' y2='233.52' style='stroke-width: 1.07; stroke: #22201C; stroke-dasharray: 2.85,2.85; stroke-linecap: butt;' />
+<line x1='274.52' y1='155.05' x2='584.97' y2='155.05' style='stroke-width: 1.07; stroke: #22201C; stroke-dasharray: 2.85,2.85; stroke-linecap: butt;' />
+</g>
+<g clip-path='url(#cpMC4wMHw2MTkuMjB8MC4wMHwzNjAuMDA=)'>
+<text x='29.23' y='277.94' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='11.78px' lengthAdjust='spacingAndGlyphs'>-10</text>
+<text x='29.23' y='200.87' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='4.53px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='29.23' y='123.80' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='9.06px' lengthAdjust='spacingAndGlyphs'>10</text>
+<text x='68.54' y='323.93' text-anchor='middle' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='18.12px' lengthAdjust='spacingAndGlyphs'>1990</text>
+<text x='166.16' y='323.93' text-anchor='middle' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='18.12px' lengthAdjust='spacingAndGlyphs'>1995</text>
+<text x='263.79' y='323.93' text-anchor='middle' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='18.12px' lengthAdjust='spacingAndGlyphs'>2000</text>
+<text x='361.41' y='323.93' text-anchor='middle' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='18.12px' lengthAdjust='spacingAndGlyphs'>2005</text>
+<text x='459.03' y='323.93' text-anchor='middle' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='18.12px' lengthAdjust='spacingAndGlyphs'>2010</text>
+<text x='556.66' y='323.93' text-anchor='middle' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='18.12px' lengthAdjust='spacingAndGlyphs'>2015</text>
+<rect x='34.10' y='35.42' width='16.06' height='7.74' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='128.36' y='35.42' width='16.06' height='7.74' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #4A5A6A;' />
+<rect x='220.97' y='35.42' width='16.06' height='7.74' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3F6B52;' />
+<text x='55.50' y='42.09' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='67.52px' lengthAdjust='spacingAndGlyphs'>Late Mobutu years</text>
+<text x='149.76' y='42.09' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='65.86px' lengthAdjust='spacingAndGlyphs'>War and transition</text>
+<text x='242.37' y='42.09' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='54.38px' lengthAdjust='spacingAndGlyphs'>Reconstruction</text>
+<text x='3.99' y='22.99' style='font-size: 8.93px;fill: #6F6B62; font-family: "Liberation Sans";' textLength='1004.80px' lengthAdjust='spacingAndGlyphs'>Real GDP growth, per cent. The colour marks the period and the dashed line the average growth of that period, which came to -6.2 per cent in the late Mobutu years, -4.6 per cent during the war and the transition and 5.6 per cent during the reconstruction.</text>
+<text x='3.99' y='12.34' style='font-size: 12.16px; font-weight: bold;fill: #002147; font-family: "Liberation Sans";' textLength='191.19px' lengthAdjust='spacingAndGlyphs'>The real cycle, by political period</text>
+<text x='3.99' y='354.40' style='font-size: 7.79px;fill: #6F6B62; font-family: "Liberation Sans";' textLength='101.88px' lengthAdjust='spacingAndGlyphs'>IMF, World Bank, BCC, AfDB.</text>
+</g>
 </g>
 </svg>

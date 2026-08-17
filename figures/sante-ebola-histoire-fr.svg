@@ -1,70 +1,114 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 238.11 181.42">
-<g font-family="Iowan Old Style, Palatino Linotype, Palatino, Georgia, Cambria, serif">
-<text x="4" y="12.35" font-size="10.7" fill="#002147" font-weight="bold">Les dix-sept épidémies d’Ebola, de 1976</text>
-<text x="4" y="24.76" font-size="10.7" fill="#002147" font-weight="bold">à 2026</text>
-<text x="4" y="36.96" font-size="7.86" fill="#6F6B62">Cas tels que publiés, par épidémie</text>
-<text x="4" y="143" font-size="6.86" fill="#6F6B62">Source : Centers for Disease Control and Prevention, « History of</text>
-<text x="4" y="150.96" font-size="6.86" fill="#6F6B62">Ebola Outbreaks », page revue le 29 mai 2026, pour les seize</text>
-<text x="4" y="158.91" font-size="6.86" fill="#6F6B62">premières épidémies ; OMS, bulletin d’épidémie 2026-DON615 du 14</text>
-<text x="4" y="166.86" font-size="6.86" fill="#6F6B62">août 2026, pour la dix-septième.</text>
-<text x="230.11" y="177.42" font-size="6.31" fill="#6F6B62" text-anchor="end">© 2026 James Wabenga Yango</text>
-<line x1="39.4" y1="49.94" x2="39.4" y2="99.48" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="39.4" y="108.86" font-size="8.17" fill="#22201C" text-anchor="middle">0</text>
-<line x1="109.89" y1="49.94" x2="109.89" y2="99.48" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="109.89" y="108.86" font-size="8.17" fill="#22201C" text-anchor="middle">2 000</text>
-<line x1="180.37" y1="49.94" x2="180.37" y2="99.48" stroke="#E3DFD4" stroke-width="0.32"/>
-<text x="180.37" y="108.86" font-size="8.17" fill="#22201C" text-anchor="middle">4 000</text>
-<text x="134.76" y="124.48" font-size="8.36" fill="#6F6B62" text-anchor="middle">Cas</text>
-<rect x="39.4" y="96.78" width="0.04" height="1.96" fill="#8C2F27"/>
-<text x="42.44" y="98.98" font-size="3.6" fill="#22201C">1</text>
-<text x="36.4" y="98.98" font-size="3.6" fill="#22201C" text-anchor="end">1977 · Tandala</text>
-<rect x="39.4" y="93.89" width="0.04" height="1.96" fill="#8C2F27"/>
-<text x="42.44" y="96.1" font-size="3.6" fill="#22201C">1</text>
-<text x="36.4" y="96.1" font-size="3.6" fill="#22201C" text-anchor="end">2022 · Beni</text>
-<rect x="39.4" y="91.01" width="0.18" height="1.96" fill="#8C2F27"/>
-<text x="42.58" y="93.22" font-size="3.6" fill="#22201C">5</text>
-<text x="36.4" y="93.22" font-size="3.6" fill="#22201C" text-anchor="end">2022 · Mbandaka</text>
-<rect x="39.4" y="88.13" width="0.28" height="1.96" fill="#8C2F27"/>
-<text x="42.68" y="90.34" font-size="3.6" fill="#22201C">8</text>
-<text x="36.4" y="90.34" font-size="3.6" fill="#22201C" text-anchor="end">2017 · Likati</text>
-<rect x="39.4" y="85.25" width="0.39" height="1.96" fill="#8C2F27"/>
-<text x="42.79" y="87.46" font-size="3.6" fill="#22201C">11</text>
-<text x="36.4" y="87.46" font-size="3.6" fill="#22201C" text-anchor="end">2021 · Beni</text>
-<rect x="39.4" y="82.37" width="0.42" height="1.96" fill="#8C2F27"/>
-<text x="42.83" y="84.58" font-size="3.6" fill="#22201C">12</text>
-<text x="36.4" y="84.58" font-size="3.6" fill="#22201C" text-anchor="end">2021 · Biena</text>
-<rect x="39.4" y="79.49" width="1.13" height="1.96" fill="#8C2F27"/>
-<text x="43.53" y="81.7" font-size="3.6" fill="#22201C">32</text>
-<text x="36.4" y="81.7" font-size="3.6" fill="#22201C" text-anchor="end">2008-2009 · Mweka</text>
-<rect x="39.4" y="76.61" width="1.9" height="1.96" fill="#8C2F27"/>
-<text x="44.31" y="78.82" font-size="3.6" fill="#22201C">54</text>
-<text x="36.4" y="78.82" font-size="3.6" fill="#22201C" text-anchor="end">2018 · Bikoro</text>
-<rect x="39.4" y="73.73" width="2.18" height="1.96" fill="#8C2F27"/>
-<text x="44.59" y="75.94" font-size="3.6" fill="#22201C">62</text>
-<text x="36.4" y="75.94" font-size="3.6" fill="#22201C" text-anchor="end">2012 · Isiro</text>
-<rect x="39.4" y="70.85" width="2.26" height="1.96" fill="#8C2F27"/>
-<text x="44.66" y="73.06" font-size="3.6" fill="#22201C">64</text>
-<text x="36.4" y="73.06" font-size="3.6" fill="#22201C" text-anchor="end">2025 · Bulape</text>
-<rect x="39.4" y="67.97" width="2.43" height="1.96" fill="#8C2F27"/>
-<text x="44.83" y="70.18" font-size="3.6" fill="#22201C">69</text>
-<text x="36.4" y="70.18" font-size="3.6" fill="#22201C" text-anchor="end">2014 · Boende</text>
-<rect x="39.4" y="65.09" width="4.58" height="1.96" fill="#8C2F27"/>
-<text x="46.98" y="67.3" font-size="3.6" fill="#22201C">130</text>
-<text x="36.4" y="67.3" font-size="3.6" fill="#22201C" text-anchor="end">2020 · Mbandaka</text>
-<rect x="39.4" y="62.21" width="9.3" height="1.96" fill="#8C2F27"/>
-<text x="51.71" y="64.41" font-size="3.6" fill="#22201C">264</text>
-<text x="36.4" y="64.41" font-size="3.6" fill="#22201C" text-anchor="end">2007 · Luebo</text>
-<rect x="39.4" y="59.33" width="11.1" height="1.96" fill="#8C2F27"/>
-<text x="53.5" y="61.53" font-size="3.6" fill="#22201C">315</text>
-<text x="36.4" y="61.53" font-size="3.6" fill="#22201C" text-anchor="end">1995 · Kikwit</text>
-<rect x="39.4" y="56.45" width="11.21" height="1.96" fill="#8C2F27"/>
-<text x="53.61" y="58.65" font-size="3.6" fill="#22201C">318</text>
-<text x="36.4" y="58.65" font-size="3.6" fill="#22201C" text-anchor="end">1976 · Yambuku</text>
-<rect x="39.4" y="53.57" width="122.29" height="1.96" fill="#8C2F27"/>
-<text x="164.69" y="55.77" font-size="3.6" fill="#22201C">3 470</text>
-<text x="36.4" y="55.77" font-size="3.6" fill="#22201C" text-anchor="end">2018-2020</text>
-<rect x="39.4" y="50.69" width="164.4" height="1.96" fill="#8C2F27"/>
-<text x="206.81" y="52.89" font-size="3.6" fill="#22201C">4 665</text>
-<text x="36.4" y="52.89" font-size="3.6" fill="#22201C" text-anchor="end">2026</text>
+<svg viewBox='0 0 604.80 460.80'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: none;'/>
+<defs>
+  <clipPath id='cpMC4wMHw2MDQuODB8MC4wMHw0NjAuODA='>
+    <rect x='0.00' y='0.00' width='604.80' height='460.80' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw2MDQuODB8MC4wMHw0NjAuODA=)'>
+<polyline points='93.76,401.60 596.83,401.60 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='93.76,379.50 596.83,379.50 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='93.76,357.41 596.83,357.41 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='93.76,335.31 596.83,335.31 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='93.76,313.22 596.83,313.22 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='93.76,291.12 596.83,291.12 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='93.76,269.02 596.83,269.02 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='93.76,246.93 596.83,246.93 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='93.76,224.83 596.83,224.83 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='93.76,202.73 596.83,202.73 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='93.76,180.64 596.83,180.64 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='93.76,158.54 596.83,158.54 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='93.76,136.45 596.83,136.45 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='93.76,114.35 596.83,114.35 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='93.76,92.25 596.83,92.25 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='93.76,70.16 596.83,70.16 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='93.76,48.06 596.83,48.06 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='93.76,414.86 93.76,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='186.72,414.86 186.72,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='279.69,414.86 279.69,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='372.65,414.86 372.65,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='465.62,414.86 465.62,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<polyline points='558.58,414.86 558.58,34.80 ' style='stroke-width: 0.68; stroke: #E3DFD4; stroke-linecap: butt;' />
+<rect x='93.76' y='84.74' width='29.56' height='15.03' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='93.76' y='394.09' width='0.093' height='15.03' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='93.76' y='106.84' width='29.28' height='15.03' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='93.76' y='128.93' width='24.54' height='15.03' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='93.76' y='261.51' width='2.97' height='15.03' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='93.76' y='217.32' width='5.76' height='15.03' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='93.76' y='173.13' width='6.41' height='15.03' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='93.76' y='327.80' width='0.74' height='15.03' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='93.76' y='239.41' width='5.02' height='15.03' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='93.76' y='62.65' width='322.59' height='15.03' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='93.76' y='151.03' width='12.09' height='15.03' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='93.76' y='283.61' width='1.12' height='15.03' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='93.76' y='305.70' width='1.02' height='15.03' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='93.76' y='349.89' width='0.46' height='15.03' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='93.76' y='371.99' width='0.093' height='15.03' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='93.76' y='195.22' width='5.95' height='15.03' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<rect x='93.76' y='40.55' width='433.68' height='15.03' style='stroke-width: 0.92; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8C2F27;' />
+<text x='125.37' y='94.89' style='font-size: 7.68px;fill: #22201C; font-family: "Liberation Sans";' textLength='12.80px' lengthAdjust='spacingAndGlyphs'>318</text>
+<text x='94.53' y='404.24' style='font-size: 7.68px;fill: #22201C; font-family: "Liberation Sans";' textLength='4.27px' lengthAdjust='spacingAndGlyphs'>1</text>
+<text x='125.09' y='116.99' style='font-size: 7.68px;fill: #22201C; font-family: "Liberation Sans";' textLength='12.80px' lengthAdjust='spacingAndGlyphs'>315</text>
+<text x='120.35' y='139.09' style='font-size: 7.68px;fill: #22201C; font-family: "Liberation Sans";' textLength='12.80px' lengthAdjust='spacingAndGlyphs'>264</text>
+<text x='98.10' y='271.66' style='font-size: 7.68px;fill: #22201C; font-family: "Liberation Sans";' textLength='8.53px' lengthAdjust='spacingAndGlyphs'>32</text>
+<text x='100.89' y='227.47' style='font-size: 7.68px;fill: #22201C; font-family: "Liberation Sans";' textLength='8.53px' lengthAdjust='spacingAndGlyphs'>62</text>
+<text x='101.54' y='183.28' style='font-size: 7.68px;fill: #22201C; font-family: "Liberation Sans";' textLength='8.53px' lengthAdjust='spacingAndGlyphs'>69</text>
+<text x='95.18' y='337.95' style='font-size: 7.68px;fill: #22201C; font-family: "Liberation Sans";' textLength='4.27px' lengthAdjust='spacingAndGlyphs'>8</text>
+<text x='100.14' y='249.57' style='font-size: 7.68px;fill: #22201C; font-family: "Liberation Sans";' textLength='8.53px' lengthAdjust='spacingAndGlyphs'>54</text>
+<text x='419.32' y='72.80' style='font-size: 7.68px;fill: #22201C; font-family: "Liberation Sans";' textLength='18.59px' lengthAdjust='spacingAndGlyphs'>3 470</text>
+<text x='107.89' y='161.18' style='font-size: 7.68px;fill: #22201C; font-family: "Liberation Sans";' textLength='12.80px' lengthAdjust='spacingAndGlyphs'>130</text>
+<text x='96.24' y='293.76' style='font-size: 7.68px;fill: #22201C; font-family: "Liberation Sans";' textLength='8.53px' lengthAdjust='spacingAndGlyphs'>12</text>
+<text x='96.05' y='315.85' style='font-size: 7.68px;fill: #22201C; font-family: "Liberation Sans";' textLength='7.97px' lengthAdjust='spacingAndGlyphs'>11</text>
+<text x='94.90' y='360.05' style='font-size: 7.68px;fill: #22201C; font-family: "Liberation Sans";' textLength='4.27px' lengthAdjust='spacingAndGlyphs'>5</text>
+<text x='94.53' y='382.14' style='font-size: 7.68px;fill: #22201C; font-family: "Liberation Sans";' textLength='4.27px' lengthAdjust='spacingAndGlyphs'>1</text>
+<text x='101.07' y='205.37' style='font-size: 7.68px;fill: #22201C; font-family: "Liberation Sans";' textLength='8.53px' lengthAdjust='spacingAndGlyphs'>64</text>
+<text x='530.42' y='50.70' style='font-size: 7.68px;fill: #22201C; font-family: "Liberation Sans";' textLength='18.59px' lengthAdjust='spacingAndGlyphs'>4 665</text>
+<text x='89.50' y='404.40' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='53.78px' lengthAdjust='spacingAndGlyphs'>1977 · Tandala</text>
+<text x='89.50' y='382.31' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='41.69px' lengthAdjust='spacingAndGlyphs'>2022 · Beni</text>
+<text x='89.50' y='360.21' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='63.44px' lengthAdjust='spacingAndGlyphs'>2022 · Mbandaka</text>
+<text x='89.50' y='338.12' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='44.41px' lengthAdjust='spacingAndGlyphs'>2017 · Likati</text>
+<text x='89.50' y='316.02' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='41.69px' lengthAdjust='spacingAndGlyphs'>2021 · Beni</text>
+<text x='89.50' y='293.92' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='46.22px' lengthAdjust='spacingAndGlyphs'>2021 · Biena</text>
+<text x='89.50' y='271.83' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='72.05px' lengthAdjust='spacingAndGlyphs'>2008-2009 · Mweka</text>
+<text x='89.50' y='249.73' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='48.48px' lengthAdjust='spacingAndGlyphs'>2018 · Bikoro</text>
+<text x='89.50' y='227.64' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='40.78px' lengthAdjust='spacingAndGlyphs'>2012 · Isiro</text>
+<text x='89.50' y='205.54' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='50.75px' lengthAdjust='spacingAndGlyphs'>2025 · Bulape</text>
+<text x='89.50' y='183.44' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='53.47px' lengthAdjust='spacingAndGlyphs'>2014 · Boende</text>
+<text x='89.50' y='161.35' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='63.44px' lengthAdjust='spacingAndGlyphs'>2020 · Mbandaka</text>
+<text x='89.50' y='139.25' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='48.03px' lengthAdjust='spacingAndGlyphs'>2007 · Luebo</text>
+<text x='89.50' y='117.15' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='46.67px' lengthAdjust='spacingAndGlyphs'>1995 · Kikwit</text>
+<text x='89.50' y='95.06' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='59.06px' lengthAdjust='spacingAndGlyphs'>1976 · Yambuku</text>
+<text x='89.50' y='72.96' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='38.97px' lengthAdjust='spacingAndGlyphs'>2018-2020</text>
+<text x='89.50' y='50.87' text-anchor='end' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='18.12px' lengthAdjust='spacingAndGlyphs'>2026</text>
+<text x='93.76' y='424.73' text-anchor='middle' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='4.53px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='186.72' y='424.73' text-anchor='middle' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='19.77px' lengthAdjust='spacingAndGlyphs'>1 000</text>
+<text x='279.69' y='424.73' text-anchor='middle' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='19.77px' lengthAdjust='spacingAndGlyphs'>2 000</text>
+<text x='372.65' y='424.73' text-anchor='middle' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='19.77px' lengthAdjust='spacingAndGlyphs'>3 000</text>
+<text x='465.62' y='424.73' text-anchor='middle' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='19.77px' lengthAdjust='spacingAndGlyphs'>4 000</text>
+<text x='558.58' y='424.73' text-anchor='middle' style='font-size: 8.17px;fill: #22201C; font-family: "Liberation Sans";' textLength='19.77px' lengthAdjust='spacingAndGlyphs'>5 000</text>
+<text x='345.29' y='438.15' text-anchor='middle' style='font-size: 8.36px;fill: #6F6B62; font-family: "Liberation Sans";' textLength='14.88px' lengthAdjust='spacingAndGlyphs'>Cas</text>
+<text x='3.99' y='22.99' style='font-size: 8.93px;fill: #6F6B62; font-family: "Liberation Sans";' textLength='137.06px' lengthAdjust='spacingAndGlyphs'>Cas tels que publiés, par épidémie</text>
+<text x='3.99' y='12.34' style='font-size: 12.16px; font-weight: bold;fill: #002147; font-family: "Liberation Sans";' textLength='273.00px' lengthAdjust='spacingAndGlyphs'>Les dix-sept épidémies d’Ebola, de 1976 à 2026</text>
+<text x='3.99' y='455.20' style='font-size: 7.79px;fill: #6F6B62; font-family: "Liberation Sans";' textLength='795.34px' lengthAdjust='spacingAndGlyphs'>Source : Centers for Disease Control and Prevention, « History of Ebola Outbreaks », page revue le 29 mai 2026, pour les seize premières épidémies ; OMS, bulletin d’épidémie 2026-DON615 du 14 août 2026, pour la dix-septième.</text>
+</g>
 </g>
 </svg>
