@@ -1,0 +1,56 @@
+# A poser dans .github/workflows/veille.yml.
+#
+# Les chiffres du volet « Sante et epidemies » vieillissent en dix a quinze
+# jours : c'est le rythme auquel l'Organisation mondiale de la sante publie
+# ses bulletins d'epidemie. La page interroge l'interface publique de
+# l'Organisation d'elle-meme, au chargement ; cette action tient le filet,
+# pour le lecteur dont le navigateur bloque la requete et pour le jour ou
+# l'interface refuserait l'appel depuis un autre domaine.
+#
+# Elle ne modifie aucun tableau. Relever qu'un bulletin est paru est
+# mecanique ; en tirer les chiffres ne l'est pas, et cela reste un acte de
+# lecture.
+
+name: Veille des bulletins d'épidémie
+
+on:
+  schedule:
+    - cron: "20 */6 * * *"   # toutes les six heures, a la vingtieme minute
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  veille:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Relever les bulletins parus
+        id: releve
+        continue-on-error: true
+        run: python3 tools/veille.py
+
+      - name: Publier le relevé
+        if: steps.releve.outcome == 'success'
+        run: |
+          if [ -z "$(git status --porcelain data/veille.json)" ]; then
+            echo "aucun bulletin nouveau"; exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/veille.json
+          git commit -m "Veille des bulletins d'épidémie"
+          git push
+
+      - name: Signaler l'échec sans casser le site
+        if: steps.releve.outcome != 'success'
+        run: |
+          echo "::warning::La veille a echoue ; data/veille.json garde son"
+          echo "dernier releve et la page se rabat dessus. Verifier que"
+          echo "l'interface de l'Organisation n'a pas change de forme."
