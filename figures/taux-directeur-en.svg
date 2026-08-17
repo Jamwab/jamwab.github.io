@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 238.11 119.06">
+<g font-family="Iowan Old Style, Palatino Linotype, Palatino, Georgia, Cambria, serif">
+<text x="4" y="11.78" font-size="9.97" fill="#002147" font-weight="bold">Policy rate of the Banque centrale du Congo</text>
+<text x="4" y="23.28" font-size="7.32" fill="#6F6B62">Per cent, successive decisions</text>
+<text x="4" y="105.22" font-size="6.39" fill="#6F6B62">Source: Banque Centrale du Congo, Monetary Policy Committee</text>
+<text x="230.11" y="115.06" font-size="5.88" fill="#6F6B62" text-anchor="end">© 2026 James Wabenga Yango</text>
+<line x1="40.55" y1="36.06" x2="40.55" y2="62.06" stroke="#E3DFD4" stroke-width="0.32"/>
+<text x="40.55" y="71.43" font-size="8.17" fill="#22201C" text-anchor="middle">Jan 2023</text>
+<line x1="194.55" y1="36.06" x2="194.55" y2="62.06" stroke="#E3DFD4" stroke-width="0.32"/>
+<text x="194.55" y="71.43" font-size="8.17" fill="#22201C" text-anchor="middle">Jan 2026</text>
+<line x1="31.52" y1="54.13" x2="230.11" y2="54.13" stroke="#E3DFD4" stroke-width="0.32"/>
+<text x="28.52" y="56.9" font-size="8.17" fill="#22201C" text-anchor="end">15</text>
+<line x1="31.52" y1="45.68" x2="230.11" y2="45.68" stroke="#E3DFD4" stroke-width="0.32"/>
+<text x="28.52" y="48.46" font-size="8.17" fill="#22201C" text-anchor="end">20</text>
+<line x1="31.52" y1="37.24" x2="230.11" y2="37.24" stroke="#E3DFD4" stroke-width="0.32"/>
+<text x="28.52" y="40.02" font-size="8.17" fill="#22201C" text-anchor="end">25</text>
+<text x="130.82" y="87.06" font-size="8.36" fill="#6F6B62" text-anchor="middle">Effective date</text>
+<text x="10.52" y="49.06" font-size="8.36" fill="#6F6B62" text-anchor="middle" transform="rotate(-90 10.52 49.06)">Per cent</text>
+<polyline points="40.55,60.88 71.27,60.88 71.27,37.24 181.71,37.24 181.71,49.9 194.55,49.9 194.55,54.13 207.26,54.13 207.26,56.66 221.08,56.66 221.08,58.35" fill="none" stroke="#002147" stroke-width="0.8" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="40.55" cy="60.88" r="1.6" fill="#8A6A18"/>
+<circle cx="71.27" cy="37.24" r="1.6" fill="#8A6A18"/>
+<circle cx="181.71" cy="49.9" r="1.6" fill="#8A6A18"/>
+<circle cx="194.55" cy="54.13" r="1.6" fill="#8A6A18"/>
+<circle cx="207.26" cy="56.66" r="1.6" fill="#8A6A18"/>
+<circle cx="221.08" cy="58.35" r="1.6" fill="#8A6A18"/>
+</g>
+</svg>

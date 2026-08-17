@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 238.11 153.07">
+<g font-family="Iowan Old Style, Palatino Linotype, Palatino, Georgia, Cambria, serif">
+<text x="4" y="13.48" font-size="12.16" fill="#002147" font-weight="bold">The fifteen most populous entities</text>
+<text x="4" y="27.07" font-size="8.93" fill="#6F6B62">Projected population 2026, millions of inhabitants</text>
+<text x="4" y="128.04" font-size="7.79" fill="#6F6B62">Source: OCHA and Institut national de la statistique,</text>
+<text x="4" y="137.07" font-size="7.79" fill="#6F6B62">Humanitarian Data Exchange</text>
+<text x="230.11" y="149.07" font-size="7.17" fill="#6F6B62" text-anchor="end">© 2026 James Wabenga Yango</text>
+<line x1="28.18" y1="40.46" x2="28.18" y2="83.79" stroke="#E3DFD4" stroke-width="0.32"/>
+<text x="28.18" y="93.16" font-size="8.17" fill="#22201C" text-anchor="middle">0</text>
+<line x1="72.03" y1="40.46" x2="72.03" y2="83.79" stroke="#E3DFD4" stroke-width="0.32"/>
+<text x="72.03" y="93.16" font-size="8.17" fill="#22201C" text-anchor="middle">2.5</text>
+<line x1="115.88" y1="40.46" x2="115.88" y2="83.79" stroke="#E3DFD4" stroke-width="0.32"/>
+<text x="115.88" y="93.16" font-size="8.17" fill="#22201C" text-anchor="middle">5</text>
+<line x1="159.73" y1="40.46" x2="159.73" y2="83.79" stroke="#E3DFD4" stroke-width="0.32"/>
+<text x="159.73" y="93.16" font-size="8.17" fill="#22201C" text-anchor="middle">7.5</text>
+<line x1="203.58" y1="40.46" x2="203.58" y2="83.79" stroke="#E3DFD4" stroke-width="0.32"/>
+<text x="203.58" y="93.16" font-size="8.17" fill="#22201C" text-anchor="middle">10</text>
+<text x="129.14" y="108.79" font-size="8.36" fill="#6F6B62" text-anchor="middle">Millions of inhabitants</text>
+<rect x="28.18" y="81.11" width="18.58" height="1.94" fill="#002147"/>
+<text x="49.76" y="83.3" font-size="3.6" fill="#22201C">1.06</text>
+<text x="25.18" y="83.3" font-size="3.6" fill="#22201C" text-anchor="end">Kananga</text>
+<rect x="28.18" y="78.26" width="20.86" height="1.94" fill="#002147"/>
+<text x="52.04" y="80.45" font-size="3.6" fill="#22201C">1.19</text>
+<text x="25.18" y="80.45" font-size="3.6" fill="#22201C" text-anchor="end">Bukama</text>
+<rect x="28.18" y="75.41" width="21.74" height="1.94" fill="#002147"/>
+<text x="52.91" y="77.6" font-size="3.6" fill="#22201C">1.24</text>
+<text x="25.18" y="77.6" font-size="3.6" fill="#22201C" text-anchor="end">Bulungu</text>
+<rect x="28.18" y="72.56" width="21.78" height="1.94" fill="#002147"/>
+<text x="52.96" y="74.75" font-size="3.6" fill="#22201C">1.24</text>
+<text x="25.18" y="74.75" font-size="3.6" fill="#22201C" text-anchor="end">Gemena</text>
+<rect x="28.18" y="69.71" width="22.33" height="1.94" fill="#002147"/>
+<text x="53.5" y="71.9" font-size="3.6" fill="#22201C">1.27</text>
+<text x="25.18" y="71.9" font-size="3.6" fill="#22201C" text-anchor="end">Idiofa</text>
+<rect x="28.18" y="66.86" width="24.59" height="1.94" fill="#002147"/>
+<text x="55.77" y="69.05" font-size="3.6" fill="#22201C">1.40</text>
+<text x="25.18" y="69.05" font-size="3.6" fill="#22201C" text-anchor="end">Mahagi</text>
+<rect x="28.18" y="64.01" width="27.3" height="1.94" fill="#002147"/>
+<text x="58.48" y="66.2" font-size="3.6" fill="#22201C">1.56</text>
+<text x="25.18" y="66.2" font-size="3.6" fill="#22201C" text-anchor="end">Oïcha</text>
+<rect x="28.18" y="61.16" width="28.16" height="1.94" fill="#002147"/>
+<text x="59.33" y="63.35" font-size="3.6" fill="#22201C">1.61</text>
+<text x="25.18" y="63.35" font-size="3.6" fill="#22201C" text-anchor="end">Lubero</text>
+<rect x="28.18" y="58.31" width="29.99" height="1.94" fill="#002147"/>
+<text x="61.17" y="60.5" font-size="3.6" fill="#22201C">1.71</text>
+<text x="25.18" y="60.5" font-size="3.6" fill="#22201C" text-anchor="end">Rutshuru</text>
+<rect x="28.18" y="55.46" width="31.93" height="1.94" fill="#002147"/>
+<text x="63.11" y="57.65" font-size="3.6" fill="#22201C">1.82</text>
+<text x="25.18" y="57.65" font-size="3.6" fill="#22201C" text-anchor="end">Djugu</text>
+<rect x="28.18" y="52.61" width="36.21" height="1.94" fill="#002147"/>
+<text x="67.39" y="54.8" font-size="3.6" fill="#22201C">2.06</text>
+<text x="25.18" y="54.8" font-size="3.6" fill="#22201C" text-anchor="end">Masisi</text>
+<rect x="28.18" y="49.76" width="45.13" height="1.94" fill="#002147"/>
+<text x="76.31" y="51.95" font-size="3.6" fill="#22201C">2.57</text>
+<text x="25.18" y="51.95" font-size="3.6" fill="#22201C" text-anchor="end">Kamonia</text>
+<rect x="28.18" y="46.91" width="46.91" height="1.94" fill="#002147"/>
+<text x="78.08" y="49.1" font-size="3.6" fill="#22201C">2.67</text>
+<text x="25.18" y="49.1" font-size="3.6" fill="#22201C" text-anchor="end">Lubumbashi</text>
+<rect x="28.18" y="44.06" width="60.12" height="1.94" fill="#002147"/>
+<text x="91.3" y="46.25" font-size="3.6" fill="#22201C">3.43</text>
+<text x="25.18" y="46.25" font-size="3.6" fill="#22201C" text-anchor="end">Mbuji-Mayi</text>
+<rect x="28.18" y="41.21" width="174.08" height="1.94" fill="#002147"/>
+<text x="205.26" y="43.4" font-size="3.6" fill="#22201C">9.92</text>
+<text x="25.18" y="43.4" font-size="3.6" fill="#22201C" text-anchor="end">Kinshasa</text>
+</g>
+</svg>

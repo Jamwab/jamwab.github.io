@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 147.4 175.75">
+<g font-family="Iowan Old Style, Palatino Linotype, Palatino, Georgia, Cambria, serif">
+<text x="4" y="11.78" font-size="9.97" fill="#002147" font-weight="bold">What the country sells</text>
+<text x="4" y="23.28" font-size="7.32" fill="#6F6B62">Merchandise exports 2024, billions of</text>
+<text x="4" y="31.77" font-size="7.32" fill="#6F6B62">US dollars. Copper and cobalt</text>
+<text x="4" y="40.27" font-size="7.32" fill="#6F6B62">together account for more than four</text>
+<text x="4" y="48.76" font-size="7.32" fill="#6F6B62">fifths.</text>
+<text x="4" y="161.91" font-size="6.39" fill="#6F6B62">Observatory of Economic Complexity, 2024.</text>
+<text x="139.4" y="171.75" font-size="5.88" fill="#6F6B62" text-anchor="end">© 2026 James Wabenga Yango</text>
+<rect x="69.07" y="62.53" width="7.5" height="7.5" fill="#002147"/>
+<text x="79.57" y="69.06" font-size="8.17" fill="#22201C">Refined copper</text>
+<rect x="69.07" y="72.01" width="7.5" height="7.5" fill="#8A6A18"/>
+<text x="79.57" y="78.54" font-size="8.17" fill="#22201C">Cobalt</text>
+<rect x="69.07" y="81.49" width="7.5" height="7.5" fill="#3F6B52"/>
+<text x="79.57" y="88.01" font-size="8.17" fill="#22201C">Copper ore</text>
+<rect x="69.07" y="90.96" width="7.5" height="7.5" fill="#4A5A6A"/>
+<text x="79.57" y="97.49" font-size="8.17" fill="#22201C">Other goods</text>
+<text x="60.92" y="143.82" font-size="8.17" fill="#22201C" text-anchor="middle">2024</text>
+<line x1="15.82" y1="134.45" x2="63.07" y2="134.45" stroke="#E3DFD4" stroke-width="0.32"/>
+<text x="12.82" y="137.23" font-size="8.17" fill="#22201C" text-anchor="end">0</text>
+<line x1="15.82" y1="110.77" x2="63.07" y2="110.77" stroke="#E3DFD4" stroke-width="0.32"/>
+<text x="12.82" y="113.55" font-size="8.17" fill="#22201C" text-anchor="end">10</text>
+<line x1="15.82" y1="87.08" x2="63.07" y2="87.08" stroke="#E3DFD4" stroke-width="0.32"/>
+<text x="12.82" y="89.86" font-size="8.17" fill="#22201C" text-anchor="end">20</text>
+<line x1="15.82" y1="63.4" x2="63.07" y2="63.4" stroke="#E3DFD4" stroke-width="0.32"/>
+<text x="12.82" y="66.18" font-size="8.17" fill="#22201C" text-anchor="end">30</text>
+<rect x="24.55" y="124.93" width="29.8" height="9.52" fill="#4A5A6A"/>
+<text x="39.45" y="132.3" font-size="7.68" fill="#FFFFFF" text-anchor="middle">13.6 %</text>
+<rect x="24.55" y="117.75" width="29.8" height="7.18" fill="#3F6B52"/>
+<text x="39.45" y="123.95" font-size="7.68" fill="#FFFFFF" text-anchor="middle">10.2 %</text>
+<rect x="24.55" y="110.53" width="29.8" height="7.22" fill="#8A6A18"/>
+<text x="39.45" y="116.75" font-size="7.68" fill="#FFFFFF" text-anchor="middle">10.3 %</text>
+<rect x="24.55" y="64.35" width="29.8" height="46.18" fill="#002147"/>
+<text x="39.45" y="90.05" font-size="7.68" fill="#FFFFFF" text-anchor="middle">65.9 %</text>
+</g>
+</svg>

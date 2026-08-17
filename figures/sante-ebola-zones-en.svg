@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 238.11 130.39">
+<g font-family="Iowan Old Style, Palatino Linotype, Palatino, Georgia, Cambria, serif">
+<text x="4" y="10.07" font-size="7.78" fill="#002147" font-weight="bold">Ituri, the health zones the bulletin names</text>
+<text x="4" y="19.49" font-size="5.72" fill="#6F6B62">Confirmed cases at 30 July 2026</text>
+<text x="4" y="107.15" font-size="4.99" fill="#6F6B62">Source: OMS, bulletin d’épidémie 2026-DON614, « Maladie à virus Bundibugyo — République</text>
+<text x="4" y="112.93" font-size="4.99" fill="#6F6B62">démocratique du Congo », 1er août 2026, révisé le 3 août 2026 ; source des données, Centre</text>
+<text x="4" y="118.72" font-size="4.99" fill="#6F6B62">des opérations d’urgences de santé publique (COUSP-RDC), chiffres arrêtés au 30 juillet 2026.</text>
+<text x="230.11" y="126.39" font-size="4.59" fill="#6F6B62" text-anchor="end">© 2026 James Wabenga Yango</text>
+<line x1="30.59" y1="31.66" x2="30.59" y2="65.09" stroke="#E3DFD4" stroke-width="0.32"/>
+<text x="30.59" y="74.46" font-size="8.17" fill="#22201C" text-anchor="middle">0</text>
+<line x1="79.45" y1="31.66" x2="79.45" y2="65.09" stroke="#E3DFD4" stroke-width="0.32"/>
+<text x="79.45" y="74.46" font-size="8.17" fill="#22201C" text-anchor="middle">250</text>
+<line x1="128.32" y1="31.66" x2="128.32" y2="65.09" stroke="#E3DFD4" stroke-width="0.32"/>
+<text x="128.32" y="74.46" font-size="8.17" fill="#22201C" text-anchor="middle">500</text>
+<line x1="177.18" y1="31.66" x2="177.18" y2="65.09" stroke="#E3DFD4" stroke-width="0.32"/>
+<text x="177.18" y="74.46" font-size="8.17" fill="#22201C" text-anchor="middle">750</text>
+<line x1="226.05" y1="31.66" x2="226.05" y2="65.09" stroke="#E3DFD4" stroke-width="0.32"/>
+<text x="226.05" y="74.46" font-size="8.17" fill="#22201C" text-anchor="middle">1,000</text>
+<text x="130.35" y="90.08" font-size="8.36" fill="#6F6B62" text-anchor="middle">Confirmed cases</text>
+<rect x="30.59" y="60.02" width="22.28" height="3.67" fill="#8C2F27"/>
+<text x="55.87" y="63.3" font-size="4.27" fill="#22201C">114</text>
+<text x="27.59" y="63.3" font-size="4.27" fill="#22201C" text-anchor="end">Nyankunde</text>
+<rect x="30.59" y="54.63" width="25.6" height="3.67" fill="#8C2F27"/>
+<text x="59.19" y="57.91" font-size="4.27" fill="#22201C">131</text>
+<text x="27.59" y="57.91" font-size="4.27" fill="#22201C" text-anchor="end">Lita</text>
+<rect x="30.59" y="49.23" width="73.69" height="3.67" fill="#8C2F27"/>
+<text x="107.27" y="52.52" font-size="4.27" fill="#22201C">377</text>
+<text x="27.59" y="52.52" font-size="4.27" fill="#22201C" text-anchor="end">Nizi</text>
+<rect x="30.59" y="43.84" width="105.74" height="3.67" fill="#8C2F27"/>
+<text x="139.33" y="47.13" font-size="4.27" fill="#22201C">541</text>
+<text x="27.59" y="47.13" font-size="4.27" fill="#22201C" text-anchor="end">Mongbwalu</text>
+<rect x="30.59" y="38.45" width="122.55" height="3.67" fill="#8C2F27"/>
+<text x="156.14" y="41.74" font-size="4.27" fill="#22201C">627</text>
+<text x="27.59" y="41.74" font-size="4.27" fill="#22201C" text-anchor="end">Rwampara</text>
+<rect x="30.59" y="33.06" width="172" height="3.67" fill="#8C2F27"/>
+<text x="205.59" y="36.34" font-size="4.27" fill="#22201C">880</text>
+<text x="27.59" y="36.34" font-size="4.27" fill="#22201C" text-anchor="end">Bunia</text>
+</g>
+</svg>
