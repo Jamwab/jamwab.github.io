@@ -1,15 +1,129 @@
 {
- "maj": "2026-08-15T00:00:00Z",
+ "maj": "2026-08-17T08:26:06Z",
  "pays": "Congo, République démocratique du",
- "source": "Organisation mondiale de la santé, Disease Outbreak News. Ce relevé initial a été posé à la main, à partir du bulletin lui-même, pour que le filet de la page réponde dès le premier chargement ; il sera remplacé au premier passage de tools/veille.py.",
- "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON615",
+ "source": "Organisation mondiale de la santé, Disease Outbreak News, interface publique, filtrée sur la RD Congo",
+ "url": "https://www.who.int/api/news/diseaseoutbreaknews?%24filter=regionscountries%2Fany%28t%3A%20t%20eq%20efb17dee-87bf-4f2d-abfa-69f46b84b2e5%29&%24orderby=PublicationDateAndTime%20desc&%24top=20&%24select=Title%2CDonId%2CUrlName%2CPublicationDateAndTime",
  "dernier": "2026-DON615",
  "bulletins": [
   {
    "id": "2026-DON615",
-   "titre": "Ebola disease caused by Bundibugyo virus – Democratic Republic of the Congo",
+   "titre": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo",
    "date": "2026-08-14",
    "lien": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON615"
+  },
+  {
+   "id": "2026-DON614",
+   "titre": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo",
+   "date": "2026-08-01",
+   "lien": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON614"
+  },
+  {
+   "id": "2026-DON613",
+   "titre": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda",
+   "date": "2026-07-17",
+   "lien": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON613"
+  },
+  {
+   "id": "2026-DON612",
+   "titre": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda",
+   "date": "2026-07-03",
+   "lien": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON612"
+  },
+  {
+   "id": "2026-DON608",
+   "titre": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda",
+   "date": "2026-06-19",
+   "lien": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON608"
+  },
+  {
+   "id": "2026-DON607",
+   "titre": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda",
+   "date": "2026-06-13",
+   "lien": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON607"
+  },
+  {
+   "id": "2026-DON606",
+   "titre": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda",
+   "date": "2026-06-08",
+   "lien": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON606"
+  },
+  {
+   "id": "2026-DON605",
+   "titre": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda",
+   "date": "2026-05-29",
+   "lien": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON605"
+  },
+  {
+   "id": "2026-DON603",
+   "titre": "Ebola disease caused by Bundibugyo virus – Democratic Republic of the Congo",
+   "date": "2026-05-21",
+   "lien": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON603"
+  },
+  {
+   "id": "2026-DON602",
+   "titre": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda",
+   "date": "2026-05-16",
+   "lien": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON602"
+  },
+  {
+   "id": "2025-DON589",
+   "titre": "Ebola virus disease – Democratic Republic of the Congo",
+   "date": "2025-12-01",
+   "lien": "https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON589"
+  },
+  {
+   "id": "2025-DON580",
+   "titre": "Ebola virus disease – Democratic Republic of the Congo",
+   "date": "2025-09-05",
+   "lien": "https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON580"
+  },
+  {
+   "id": "2025-DON557",
+   "titre": "Cluster of community deaths in Basankusu, Equateur- Democratic Republic of the Congo",
+   "date": "2025-03-03",
+   "lien": "https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON557"
+  },
+  {
+   "id": "2024-DON547",
+   "titre": "Acute respiratory infections complicated by malaria (previously undiagnosed disease) - Democratic Republic of the Congo",
+   "date": "2024-12-27",
+   "lien": "https://www.who.int/emergencies/disease-outbreak-news/item/2024-DON547"
+  },
+  {
+   "id": "2024-DON546",
+   "titre": "Undiagnosed disease – Democratic Republic of the Congo",
+   "date": "2024-12-08",
+   "lien": "https://www.who.int/emergencies/disease-outbreak-news/item/2024-DON546"
+  },
+  {
+   "id": "2024-DON522",
+   "titre": "Mpox - Democratic Republic of the Congo",
+   "date": "2024-06-14",
+   "lien": "https://www.who.int/emergencies/disease-outbreak-news/item/2024-DON522"
+  },
+  {
+   "id": "2023-DON493",
+   "titre": "Mpox (monkeypox) - Democratic Republic of the Congo",
+   "date": "2023-11-23",
+   "lien": "https://www.who.int/emergencies/disease-outbreak-news/item/2023-DON493"
+  },
+  {
+   "id": "2023-DON441",
+   "titre": "Cholera - Democratic Republic of the Congo",
+   "date": "2023-02-10",
+   "lien": "https://www.who.int/emergencies/disease-outbreak-news/item/2023-DON441"
+  },
+  {
+   "id": "2022-DON411",
+   "titre": "Ebola Virus Disease –Democratic Republic of the Congo",
+   "date": "2022-09-29",
+   "lien": "https://www.who.int/emergencies/disease-outbreak-news/item/2022-DON411"
+  },
+  {
+   "id": "2022-DON404",
+   "titre": "Ebola virus disease – Democratic Republic of the Congo",
+   "date": "2022-08-25",
+   "lien": "https://www.who.int/emergencies/disease-outbreak-news/item/2022-DON404"
   }
  ]
 }
