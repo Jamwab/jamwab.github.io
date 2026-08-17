@@ -1,0 +1,58 @@
+# A poser dans .github/workflows/cv.yml.
+#
+# Le releve des travaux vit a trois endroits qui ne se parlent pas :
+# publications.json, que le depot rafraichit chaque nuit ; les notices
+# portees a la main dans la page ; et le curriculum vitae, compose en deux
+# langues a partir de la meme source LaTeX. Rien ne garantit que les trois
+# disent la meme chose, et le troisieme est celui qui vieillit le plus vite,
+# parce qu'il est le seul que personne ne regenere.
+#
+# Cette action ne corrige rien. Elle compare, et elle previent. Un CV n'est
+# pas un tableau : l'ordre des rubriques, la facon de nommer un coauteur, la
+# decision de retenir un travail ou de le laisser de cote sont des actes
+# d'ecriture, et une machine qui les prendrait a la place de l'auteur
+# ecrirait un autre CV que le sien. L'action se contente donc de poser un
+# avertissement dans le journal du depot : « il manque ceci ». C'est a
+# l'auteur d'ecrire la notice, puis de recompiler.
+#
+# Elle ne pousse aucun commit. Le seul geste automatique que le depot
+# s'autorise sur le CV est le mois du pied de page (« cv_maj.py --dater »),
+# et celui-la se fait a la main, au moment ou l'on recompile.
+
+name: Contrôle du curriculum vitae
+
+on:
+  schedule:
+    - cron: "40 5 * * 1"   # chaque lundi, peu apres l'aube
+  workflow_dispatch:
+  push:
+    paths:
+      - "cv/*.tex"
+      - "publications.json"
+      - "tools/cv_maj.py"
+
+permissions:
+  contents: read
+
+jobs:
+  controle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Comparer le CV au relevé du dépôt
+        id: releve
+        continue-on-error: true
+        run: python3 tools/cv_maj.py | tee /tmp/cv.txt
+
+      - name: Signaler ce qui manque
+        if: steps.releve.outcome != 'success'
+        run: |
+          echo "::warning::Le curriculum vitae ne porte pas tous les travaux"
+          echo "que le depot connait. Le detail est dans l'etape precedente."
+          echo "Porter les notices a la main dans les deux fichiers LaTeX,"
+          echo "puis « python3 tools/cv_maj.py --dater » et recompiler."

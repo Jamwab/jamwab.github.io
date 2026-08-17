@@ -1,0 +1,8 @@
+# https://jamwab.github.io -- James Wabenga Yango, Ph.D.
+# Tout est public : la page, les figures, les tableaux, les series et les CV.
+# Rien n'est reserve, rien n'est exclu. Les moteurs de recherche, les moteurs
+# de recherche de donnees et les moissonneurs bibliographiques sont attendus.
+User-agent: *
+Allow: /
+
+Sitemap: https://jamwab.github.io/sitemap.xml
