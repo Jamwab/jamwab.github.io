@@ -1,0 +1,18 @@
+{
+ "commentaire": "Journal d'audience du site. Tenu par tools/audience.py, qui verse chaque nuit le releve de quatorze jours de GitHub dans une histoire qui, elle, garde tout. Aucun service tiers, aucun cookie, aucun traceur chez le lecteur.",
+ "copies": {},
+ "depuis": "2026-08-16",
+ "maj": "2026-08-16",
+ "source": "GitHub repository traffic API (/traffic/views, /traffic/clones)",
+ "total": {
+  "copies": 0,
+  "visiteurs": 0,
+  "vues": 0
+ },
+ "trente_jours": {
+  "copies": 0,
+  "visiteurs": 0,
+  "vues": 0
+ },
+ "vues": {}
+}

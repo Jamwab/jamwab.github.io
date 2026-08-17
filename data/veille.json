@@ -1,0 +1,15 @@
+{
+ "maj": "2026-08-15T00:00:00Z",
+ "pays": "Congo, République démocratique du",
+ "source": "Organisation mondiale de la santé, Disease Outbreak News. Ce relevé initial a été posé à la main, à partir du bulletin lui-même, pour que le filet de la page réponde dès le premier chargement ; il sera remplacé au premier passage de tools/veille.py.",
+ "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON615",
+ "dernier": "2026-DON615",
+ "bulletins": [
+  {
+   "id": "2026-DON615",
+   "titre": "Ebola disease caused by Bundibugyo virus – Democratic Republic of the Congo",
+   "date": "2026-08-14",
+   "lien": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON615"
+  }
+ ]
+}

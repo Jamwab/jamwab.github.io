@@ -1,0 +1,136 @@
+{
+ "taux_directeur": [
+  [
+   "2023-01-01",
+   11.0
+  ],
+  [
+   "2023-08-09",
+   25.0
+  ],
+  [
+   "2025-10-08",
+   17.5
+  ],
+  [
+   "2026-01-08",
+   15.0
+  ],
+  [
+   "2026-04-09",
+   13.5
+  ],
+  [
+   "2026-07-17",
+   12.5
+  ]
+ ],
+ "reserves": [
+  [
+   "2026-02-05",
+   7.3
+  ],
+  [
+   "2026-04-29",
+   7.73
+  ],
+  [
+   "2026-05-06",
+   8.05
+  ],
+  [
+   "2026-06-11",
+   7.6
+  ],
+  [
+   "2026-07-01",
+   8.27
+  ],
+  [
+   "2026-07-30",
+   7.92
+  ]
+ ],
+ "kpi": [
+  {
+   "en": "Policy rate",
+   "fr": "Taux directeur",
+   "v_en": "12.5&#8239;%",
+   "v_fr": "12,5&#8239;%",
+   "w_en": "17 July 2026",
+   "w_fr": "17 juillet 2026"
+  },
+  {
+   "en": "Marginal lending facility",
+   "fr": "Facilit&#233; de pr&#234;t marginal",
+   "v_en": "16.5&#8239;%",
+   "v_fr": "16,5&#8239;%",
+   "w_en": "17 July 2026",
+   "w_fr": "17 juillet 2026"
+  },
+  {
+   "en": "Reserve requirement",
+   "fr": "R&#233;serve obligatoire",
+   "v_en": "12&#8239;%",
+   "v_fr": "12&#8239;%",
+   "w_en": "2025",
+   "w_fr": "2025"
+  },
+  {
+   "en": "Cumulative inflation",
+   "fr": "Inflation cumul&#233;e",
+   "v_en": "6.03&#8239;%",
+   "v_fr": "6,03&#8239;%",
+   "w_en": "since 1 January, at 8 August 2026",
+   "w_fr": "depuis le 1<sup>er</sup> janvier, au 8 ao&#251;t 2026"
+  },
+  {
+   "en": "Inflation, year on year",
+   "fr": "Inflation en glissement annuel",
+   "v_en": "3.22&#8239;%",
+   "v_fr": "3,22&#8239;%",
+   "w_en": "8 August 2026",
+   "w_fr": "8 ao&#251;t 2026"
+  },
+  {
+   "en": "Annualised inflation",
+   "fr": "Inflation annualis&#233;e",
+   "v_en": "10.19&#8239;%",
+   "v_fr": "10,19&#8239;%",
+   "w_en": "BCC estimate, 8 August 2026",
+   "w_fr": "estimation BCC, 8 ao&#251;t 2026"
+  },
+  {
+   "en": "Exchange rate",
+   "fr": "Taux de change",
+   "v_en": "2,261.82 CDF/USD",
+   "v_fr": "2&#8239;261,82 CDF/USD",
+   "w_en": "indicative rate, 12 August 2026",
+   "w_fr": "taux indicatif, 12 ao&#251;t 2026"
+  },
+  {
+   "en": "International reserves",
+   "fr": "R&#233;serves internationales",
+   "v_en": "7.92 bn USD",
+   "v_fr": "7,92 Md USD",
+   "w_en": "close to three months of imports, end-July 2026",
+   "w_fr": "pr&#232;s de trois mois d&#8217;importations, fin juillet 2026"
+  },
+  {
+   "en": "Deposits held in foreign currency",
+   "fr": "D&#233;p&#244;ts en devises",
+   "v_en": "88.3&#8239;%",
+   "v_fr": "88,3&#8239;%",
+   "w_en": "of total deposits, end-June 2026",
+   "w_fr": "de l&#8217;encours total, fin juin 2026"
+  },
+  {
+   "en": "Extreme poverty",
+   "fr": "Pauvret&#233; extr&#234;me",
+   "v_en": "67&#8239;%",
+   "v_fr": "67&#8239;%",
+   "w_en": "of the population, 2025",
+   "w_fr": "de la population, 2025"
+  }
+ ]
+}
