@@ -1,0 +1,220 @@
+% Curriculum vitae -- James Wabenga Yango -- English version.
+%
+% Compiled with pdflatex, twice so that hyperref settles its anchors. No
+% telephone number appears here, neither the author's nor the referees'.
+% Referees are reachable at their institutional addresses, which are public.
+%
+%   pdflatex cv-james-wabenga-yango-en.tex
+%
+% This file is the English counterpart of cv-james-wabenga-yango-fr.tex and
+% follows it entry for entry: any change made to one belongs in the other.
+%
+\documentclass[11pt,letterpaper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{charter}                 % professional serif face
+\usepackage[scaled=0.92]{helvet}     % matching sans for the name and headings
+\usepackage{microtype}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{ragged2e}
+\usepackage[letterpaper,top=1.6cm,bottom=1.6cm,left=2cm,right=2cm]{geometry}
+\definecolor{accent}{HTML}{1F3A5F}   % midnight blue
+\definecolor{soft}{HTML}{5A6472}     % grey for dates and metadata
+\usepackage[hidelinks]{hyperref}
+\hypersetup{colorlinks=true,urlcolor=accent,linkcolor=accent,
+  pdftitle={Curriculum vitae - James Wabenga Yango},
+  pdfauthor={James Wabenga Yango},
+  pdfsubject={Macroeconomic modelling},
+  pdfkeywords={macroeconomics, DSGE, CGE, D.R. Congo, demography, monetary policy}}
+% ---- Section headings: small caps over an accent rule ---------------------
+\titleformat{\section}
+  {\normalfont\large\bfseries\color{accent}\scshape}
+  {}{0em}{}[{\color{accent}\titlerule[0.9pt]}]
+\titlespacing*{\section}{0pt}{1.05em}{0.5em}
+% ---- Dated entry: date on the left, content on the right ------------------
+\newenvironment{datelist}
+  {\begin{description}[style=multiline,leftmargin=2.75cm,labelwidth=2.55cm,
+     labelsep=0.2cm,font=\normalfont\small\color{soft},
+     itemsep=0.45em,topsep=0.25em,parsep=0.15em]}
+  {\end{description}}
+% ---- Compact lists --------------------------------------------------------
+\newlist{tight}{itemize}{1}
+\setlist[tight]{leftmargin=1.2em,itemsep=2pt,topsep=2pt,parsep=0pt,label=\textcolor{accent}{\textbullet}}
+\newlist{plainlist}{itemize}{1}
+\setlist[plainlist]{leftmargin=0pt,label={},itemsep=2pt,topsep=2pt,parsep=0pt}
+\setlength{\parindent}{0pt}
+\newcommand{\dotsep}{\;\textcolor{soft}{\textbullet}\;}
+\newcommand{\meta}[1]{{\small\itshape\color{soft}#1}}
+% ---- Footer: the date it was last revised, and nothing else ---------------
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[L]{\meta{James Wabenga Yango \dotsep curriculum vitae \dotsep August 2026}}
+\fancyfoot[R]{\meta{\thepage}}
+\begin{document}
+\sloppy
+% ======================= HEADER ===========================================
+\begin{center}
+  {\fontfamily{phv}\selectfont\Huge\bfseries\color{accent} James Wabenga Yango, Ph.D.}\\[3pt]
+  {\fontfamily{phv}\selectfont\large Economist \textcolor{soft}{|} Macroeconomic modelling}\\[6pt]
+  {\small
+    Montreal, Quebec, Canada \dotsep \href{mailto:jaway@ulaval.ca}{jaway@ulaval.ca}\\[2pt]
+    \href{https://jamwab.github.io}{Website} \dotsep
+    \href{https://scholar.google.com/citations?user=1d2zZn8AAAAJ}{Google Scholar} \dotsep
+    \href{https://orcid.org/0000-0002-4675-4583}{ORCID} \dotsep
+    \href{https://ideas.repec.org/f/pwa745.html}{RePEc} \dotsep
+    \href{https://www.linkedin.com/in/james-wabenga-739a6641/}{LinkedIn}
+  }
+\end{center}
+\vspace{0.2em}
+% ======================= PROFILE ==========================================
+\section{Profile}
+I am an economist and a teacher. I hold a doctorate in economics from Université Laval (2025) and a master's degree in economics for development from the University of Oxford. My work sits at the meeting point of macroeconomics, computational economics and mathematical economics: the first supplies the questions, the second the means of answering them once the models stop admitting closed-form solutions, and the third the discipline that keeps the answers well posed. Since 2020 I have been a lecturer at Université Laval and at the Université du Québec à Chicoutimi, where I have taught some fifteen undergraduate and graduate courses, in French and in English: macroeconomics, microeconomics, international economics, international trade, managerial economics and quantitative methods. To keep the theory concrete I draw on modelling work carried out for a range of ministries and agencies -- the UNDP, the Congolese and Nigerien planning authorities, central banks -- so that the concepts connect to the policy questions that prompted them. Alongside the teaching I pursue research in macroeconomics on population ageing, international migration and monetary policy.
+% ======================= APPOINTMENTS =====================================
+\section{Appointments}
+\begin{datelist}
+  \item[Current] \textbf{Associate professor} \dotsep Faculty of Economics and Management, University of Kinshasa, D.R. Congo
+  \item[Current] \textbf{Visiting professor} \dotsep Université Officielle de Bukavu and Université Évangélique en Afrique, D.R. Congo
+  \item[2026--present] \textbf{Research professional} \dotsep Chair in Macroeconomics and Forecasting, ESG UQAM, Montreal
+  \item[2025--2026] \textbf{Research professional} \dotsep CIRANO -- Centre interuniversitaire de recherche en analyse des organisations, Montreal
+  \item[2023--present] \textbf{Lecturer} \dotsep Department of Economics and Administration, Université du Québec à Chicoutimi
+  \item[2020--2024] \textbf{Lecturer} \dotsep Department of Economics, Université Laval, Quebec
+  \item[2014--2019] \textbf{Teaching assistant and tutor} \dotsep Department of Economics, Université Laval, Quebec
+  \item[2011--2012] \textbf{Instructor} \dotsep Faculty of Economics and Management, University of Kinshasa, D.R. Congo
+\end{datelist}
+% ======================= EDUCATION ========================================
+\section{Education}
+\begin{datelist}
+  \item[2018--2025] \textbf{Ph.\,D.\ in Economics} -- macroeconomic modelling \dotsep Université Laval, Quebec\\
+    \meta{Thesis: ``Three Essays on International Macroeconomics''. Supervisor: Kevin Moran. Defended with a unanimous ``Excellent''. GPA 4.00/4.33.}
+  \item[2016--2017] \textbf{M.\,Sc.\ in Economics for Development} \dotsep University of Oxford, United Kingdom\\
+    \meta{Supervisors: Christopher Adam and Pramila Krishnan.}
+  \item[2022--present] \textbf{M.\,Sc.\ in Mathematical and Computational Finance} \dotsep Université de Montréal\\
+    \meta{Supervisor: Fabian Bastin. GPA 3.87/4.30.}
+  \item[2012--2014] \textbf{M.\,A.\ in Economics} \dotsep Université Laval, Quebec\\
+    \meta{Thesis on the demographic determinants of external balances. Supervisors: Benoît Carmichael and Kevin Moran. GPA 4.00/4.33.}
+  \item[2005--2010] \textbf{B.\,Sc.\ in Mathematical Economics} \dotsep University of Kinshasa, D.R. Congo\\
+    \meta{Awarded with Distinction -- first in the graduating class.}
+\end{datelist}
+% ======================= TEACHING =========================================
+\section{Teaching}
+\textbf{University of Kinshasa} -- Faculty of Economics and Management
+\begin{datelist}
+  \item[Current] Time series econometrics \meta{(Master 1)}
+  \item[Current] Mathematics \meta{(Licence 2 and Licence 3)}
+  \item[Current] Computable general equilibrium modelling \meta{(graduate level)}
+  \item[2011--2012] Growth economics \dotsep Game theory \dotsep Quantitative methods \dotsep Operations research
+\end{datelist}
+\textbf{Université Officielle de Bukavu and Université Évangélique en Afrique} -- D.R. Congo
+\begin{datelist}
+  \item[Current] Computable general equilibrium modelling \meta{(graduate level)}
+\end{datelist}
+\textbf{Université du Québec à Chicoutimi} -- Department of Economics and Administration
+\begin{datelist}
+  \item[Summer 2025] Computable general equilibrium models \dotsep Dynamic optimisation \meta{(graduate level)}
+  \item[Winter 2025] 2ECO205: Managerial economics
+  \item[Winter 2025] 2MGO727: International markets
+  \item[Fall 2024] 2ECO102: The economic environment of the firm (principles of macroeconomics)
+  \item[Fall 2023] 2ECO600: International economics
+\end{datelist}
+\textbf{Université Laval} -- Department of Economics
+\begin{datelist}
+  \item[Summer 2022--2024] ECN 1010: Principles of macroeconomics \meta{(distance format, monPortail platform)}
+  \item[Summer 2020] ECN 1000: Principles of microeconomics
+  \item[2019] ECN 7010/7011: Macroeconomics I and II \meta{(doctoral; tutor and teaching assistant)}
+  \item[2018] ECN 1010 (macro), ECN 1000 (micro), ECN 1030 (financial markets) \meta{(tutor)}
+  \item[2014] ECN 7160: Modelling economic development \meta{(graduate, teaching assistant, Prof. B. Decaluwé)}
+\end{datelist}
+% ======================= COURSE DEVELOPMENT ===============================
+\section{Course development and online learning}
+\begin{tight}
+  \item Full design of course outlines and syllabi (macroeconomics, microeconomics, international economics, international markets).
+  \item Courses built end to end for online delivery (monPortail platform, Université Laval): modules, materials, assessments and feedback.
+  \item Tutorial sessions, worked problem sets and simulation code (for instance the Ramsey growth model).
+  \item Computation and visualisation tools (Matlab, R, Python, GAMS, Dynare) brought into the classroom to make applied concepts concrete.
+\end{tight}
+% ======================= PROFESSIONAL EXPERIENCE ==========================
+\section{Professional experience in applied economics}
+\begin{datelist}
+  \item[2018--2019] \textbf{Macroeconomic consultant (CGE)} \dotsep Ministry of Planning, Republic of Niger\\
+    \meta{Dynamic computable general equilibrium model of the effects of agricultural growth.}
+  \item[2016--2017] \textbf{Macroeconomic consultant (CGE)} \dotsep UNDP / Office of the Prime Minister, D.R. Congo\\
+    \meta{2013 social accounting matrix and a dynamic CGE model of the effects of public spending.}
+  \item[2013--2015] \textbf{Macroeconomic consultant} \dotsep Central Bank of the Congo and Office of the Prime Minister\\
+    \meta{DSGE models (commodity prices, agricultural investment).}
+\end{datelist}
+% ======================= SKILLS ===========================================
+\section{Skills}
+\begin{plainlist}
+  \item \textbf{Programming and modelling:} R, Matlab, Dynare, GAMS, Mathematica, Stata, EViews, Julia, Python.
+  \item \textbf{Data and methods:} SQL, MySQL; econometrics, big data, machine learning, CGE, DSGE.
+  \item \textbf{Web and e-learning:} HTML5, PHP, JavaScript; online learning platforms (monPortail).
+  \item \textbf{Languages:} French (fluent, spoken and written); English (fluent -- graduate study at Oxford, research and teaching).
+\end{plainlist}
+% ======================= PUBLICATIONS =====================================
+\section{Publications and research}
+\textbf{Working papers and preprints}
+\begin{tight}
+  \item Wabenga, J. (2026). \textit{Artificial Intelligence, Aging, and the Macroeconomy.}
+  \item Wabenga, J.\ \& Moran, K. (2025). \textit{International Migration, Aging, and External Imbalances: A Dynamic Analysis with a Two-Country Life-Cycle Economy.}
+  \item Wabenga, J.\ \& Moran, K. (2025). \textit{Demographic Trends, International Migration, and External Imbalances: A Regional Analysis.}
+  \item Wabenga, J. (2025). \textit{Transmission of U.S. Monetary Policy Shocks to a Dollarized, Resource-Dependent Economy: Evidence from the D.R. Congo} (TVP-VAR model).
+  \item Wabenga, J.\ \& Moran, K. (2024). \textit{The Effects of Demographic Changes and International Migration on Economic Growth: A Regional Analysis.}
+\end{tight}
+\textbf{Journal articles}
+\begin{tight}
+  \item Wabenga, J. (2016). Agricultural Growth and Poverty Reduction in the D.R. Congo: A General Equilibrium Approach. \textit{International Journal of Food and Agricultural Economics.}
+  \item Wabenga, J.\ \& Nlemfu, J.\,B. (2016). Agricultural Growth and Investment Options for Poverty Reduction in the D.R. Congo. \textit{Journal of Stock \& Forex Trading.}
+\end{tight}
+\textbf{Books, reports and working papers}
+\begin{tight}
+  \item Wabenga, J. (2016). \textit{Impacts of Public Expenditures on Agricultural Production, Inequality and Poverty Reduction in the D.R. Congo} (working paper, SSRN).
+  \item Nlemfu, J.\,B.\ \& Wabenga, J. (2017). \textit{Croissance agricole et options d'investissement pour la réduction de la pauvreté en R.D. Congo : une analyse en équilibre général} (book).
+  \item Nlemfu, J.\,B.\ \& Wabenga, J. (2017). \textit{Analyse de l'économie congolaise à travers la matrice de comptabilité sociale de 2005} (technical report).
+  \item Wabenga, J.\ \& Nlemfu, J.\,B. (2011). \textit{Zone de libre-échange de la SADC et économie de la R.D. Congo : création de commerce et bien-être ?} (technical report).
+\end{tight}
+\meta{Full records, abstracts and BibTeX entries: \href{https://jamwab.github.io}{jamwab.github.io}.}
+% ======================= CONFERENCES ======================================
+\section{Conferences and presentations}
+\begin{tight}
+  \item Annual congress of the Société canadienne de science économique (SCSE).
+  \item Annual conference of the Canadian Economics Association (CEA), Halifax.
+  \item Conference, Queen Mary University of London (United Kingdom).
+  \item Cercle des économistes congolais.
+\end{tight}
+\meta{Work presented includes: ``International Monetary Policy and Exchange Rate Dynamics in Dollarized Economies: Evidence from the D.R. Congo''; ``The effect of the exchange rate on tax revenue in a dollarized economy: the case of the D.R. Congo''; and research on population ageing, international migration and external imbalances.}
+% ======================= AWARDS ===========================================
+\section{Awards and scholarships}
+\begin{datelist}
+  \item[2025] Scholarship of the Chair in Macroeconomics and Forecasting (CMP), École des sciences de la gestion, Université du Québec à Montréal
+  \item[2023] Fonds Georges-Henri-Lévesque doctoral completion scholarship, Université Laval
+  \item[2022] Fin-ML / NSERC-CREATE excellence scholarship, HEC Montréal and Université de Montréal
+  \item[2020--2021] Mitacs Globalink Ph.\,D.\ award, Mitacs, held at Université Laval (2020) \dotsep Doctoral excellence scholarships of the Centre de recherche sur les risques, les enjeux économiques et les politiques publiques (CRREP), Université Laval (2020, 2021)
+  \item[2019] Matuszewski scholarship, Department of Economics, Université Laval (twice) \dotsep Doctoral visiting award, Becker Friedman Institute, University of Chicago \dotsep Five-year doctoral fellowship, Université Laval
+  \item[2016] Poler-Oxford Scholarship (best admission file), University of Oxford
+  \item[2014] ``My Thesis in 180 Seconds'' prize, Faculty of Social Sciences, Université Laval
+  \item[2011--2013] Excellence scholarship of the Centre interuniversitaire sur le risque, les politiques économiques et l'emploi (CIRPÉE), Université Laval (2013) \dotsep MEXT excellence scholarship, Government of Japan (2011)
+  \item[2010] Dean's award -- first in the graduating class, Faculty of Economics and Management, University of Kinshasa
+\end{datelist}
+% ======================= SPECIALISED TRAINING =============================
+\section{Specialised training and academic visits}
+\begin{datelist}
+  \item[Winter 2020] Doctoral course -- Applied computational economics \dotsep McGill University \meta{(4.00/4.00; Prof. D. Barczyk)}
+  \item[Summer 2019] Doctoral course -- Monetary and fiscal policy with heterogeneity \dotsep Becker Friedman Institute, U. Chicago \meta{(Prof. G. Kaplan and B. Moll)}
+  \item[2021] Certificate -- Machine learning applied to finance and insurance \dotsep Université de Montréal
+  \item[2013--2014] Certificate -- Econometrics applied to transport (2014) \dotsep Dynamic impacts of policies and shocks (PEP, 2013), Université Laval
+\end{datelist}
+% ======================= SERVICE ==========================================
+\section{Service and responsibilities}
+\begin{datelist}
+  \item[2021--2023] Vice-president -- Graduate Economics Students' Association (AÉÉCSUL), Université Laval
+\end{datelist}
+% ======================= REFEREES =========================================
+\section{Referees}
+\begin{plainlist}
+  \item \textbf{Kevin Moran} -- Professor, Department of Economics, Université Laval (doctoral supervisor). \meta{kevin.moran@ecn.ulaval.ca}
+\end{plainlist}
+\end{document}
