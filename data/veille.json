@@ -1,10 +1,16 @@
 {
- "maj": "2026-08-28T01:47:02Z",
+ "maj": "2026-08-28T21:56:35Z",
  "pays": "Congo, République démocratique du",
  "source": "Organisation mondiale de la santé, Disease Outbreak News, interface publique, filtrée sur la RD Congo",
  "url": "https://www.who.int/api/news/diseaseoutbreaknews?%24filter=regionscountries%2Fany%28t%3A%20t%20eq%20efb17dee-87bf-4f2d-abfa-69f46b84b2e5%29&%24orderby=PublicationDateAndTime%20desc&%24top=20&%24select=Title%2CDonId%2CUrlName%2CPublicationDateAndTime",
- "dernier": "2026-DON615",
+ "dernier": "2026-DON616",
  "bulletins": [
+  {
+   "id": "2026-DON616",
+   "titre": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo",
+   "date": "2026-08-28",
+   "lien": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON616"
+  },
   {
    "id": "2026-DON615",
    "titre": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo",
@@ -118,12 +124,6 @@
    "titre": "Ebola Virus Disease –Democratic Republic of the Congo",
    "date": "2022-09-29",
    "lien": "https://www.who.int/emergencies/disease-outbreak-news/item/2022-DON411"
-  },
-  {
-   "id": "2022-DON404",
-   "titre": "Ebola virus disease – Democratic Republic of the Congo",
-   "date": "2022-08-25",
-   "lien": "https://www.who.int/emergencies/disease-outbreak-news/item/2022-DON404"
   }
  ]
 }
