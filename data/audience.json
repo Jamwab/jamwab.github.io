@@ -104,18 +104,26 @@
   "2026-08-27": {
    "n": 3,
    "u": 3
+  },
+  "2026-08-28": {
+   "n": 14,
+   "u": 6
+  },
+  "2026-08-29": {
+   "n": 20,
+   "u": 8
   }
  },
  "depuis": "2026-08-02",
- "maj": "2026-08-30",
+ "maj": "2026-08-31",
  "source": "GitHub repository traffic API (/traffic/views, /traffic/clones)",
  "total": {
-  "copies": 334,
+  "copies": 368,
   "visiteurs": 7,
   "vues": 57
  },
  "trente_jours": {
-  "copies": 334,
+  "copies": 368,
   "visiteurs": 7,
   "vues": 57
  },
@@ -221,6 +229,14 @@
    "u": 0
   },
   "2026-08-27": {
+   "n": 0,
+   "u": 0
+  },
+  "2026-08-28": {
+   "n": 0,
+   "u": 0
+  },
+  "2026-08-29": {
    "n": 0,
    "u": 0
   }
