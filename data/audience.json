@@ -168,20 +168,24 @@
   "2026-09-12": {
    "n": 58,
    "u": 25
+  },
+  "2026-09-13": {
+   "n": 50,
+   "u": 19
   }
  },
  "depuis": "2026-08-02",
- "maj": "2026-09-14",
+ "maj": "2026-09-15",
  "source": "GitHub repository traffic API (/traffic/views, /traffic/clones)",
  "total": {
-  "copies": 932,
+  "copies": 982,
   "visiteurs": 7,
   "vues": 57
  },
  "trente_jours": {
-  "copies": 932,
-  "visiteurs": 7,
-  "vues": 57
+  "copies": 974,
+  "visiteurs": 6,
+  "vues": 51
  },
  "vues": {
   "2026-08-02": {
@@ -349,6 +353,10 @@
    "u": 0
   },
   "2026-09-12": {
+   "n": 0,
+   "u": 0
+  },
+  "2026-09-13": {
    "n": 0,
    "u": 0
   }
